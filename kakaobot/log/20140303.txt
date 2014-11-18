@@ -1,0 +1,874 @@
+Login succeed.
+[03/03 17:07:55] (73689578228177) Á¤ÁØ¼ö > º°·Î
+[03/03 17:07:56] (54740778172762) ¾ÈÁØÇõ > ¹ÌÄ£°ÅÁö
+[03/03 17:07:56] (54740778172762) À¯Áø > ¿ï¹ÝÀº ¿Ö ¾øÀ»±î
+[03/03 17:07:56] (72425869567241) . > º¿¾Æ´Ñ±ß
+[03/03 17:07:57] (73689578228177) ÂÐ¿ÍÀÌ > ÇÑ°³¸¸ÀÌ¶óµµ´Ù´Ï¸é 5¸¶³Í
+[03/03 17:07:57] (68743371283615) ÀÌÇüÂù > ¤·¤»¤·¤»
+[03/03 17:07:58] (73689578228177) Á¤ÁØ¼ö > °¡°íšìÁö¾ÊÀ½
+[03/03 17:07:58] (72425869567241) . > ¤§¤§¤§
+[03/03 17:07:58] (72958217424142) Á¤µµºý > ´Ð³Û¹¹´õ¶ó
+[03/03 17:07:59] (64493356195307) À¯Á¦ÇõÇõÇõÇõ > ³ª ºñÀÚÄ«µå ÇÏ³ª »Ì¾Ò¾î
+[03/03 17:07:59] (54740778172762) ¾ÈÁØÇõ > ÃÊ´ëÇÒ¾Ö°¡
+[03/03 17:07:59] (54740778172762) À¯Áø > ¤¾¤¾
+[03/03 17:07:59] (72425869567241) »ªÂÐ > ºÒ·¯µµ¾È¿Í?
+[03/03 17:07:59] (71546240267481) ÀÌÁØ¿µ > ³¯¾¾
+AHOTHER: MSG {u'status': 0, u'chatLog': {u'msgId': 834079729, u'sendAt': 1393834080, u'logId': 611503356220829697L, u'authorId': 18512123L, u'message': u'\uc57c', u'type': 1, u'chatId': 74645077307812L}, u'logId': 611503356220829697L, u'chatId': 74645077307812L, u'errMsg': None, u'authorNickname': u'\ucc9c\uc9c0\uc6b4'}
+AHOTHER: MSG {u'status': 0, u'chatLog': {u'msgId': 834080293, u'sendAt': 1393834080, u'logId': 611503356749287424L, u'authorId': 32079132L, u'message': u'\uc559', u'type': 1, u'chatId': 74563417609699L}, u'logId': 611503356749287424L, u'chatId': 74563417609699L, u'errMsg': None, u'authorNickname': u'\ub044\uc544\uc544\uc559'}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611503353393899520L, u'userId': 103152431L, u'chatId': 72425869567241L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611502850295502848L, u'userId': 123453175L, u'chatId': 74399966014930L}
+[03/03 17:08:00] (54740778172762) ¾ÈÁØÇõ > ´©°¡ÀÖ´Ù°í
+[03/03 17:08:02] (67837229684900) È«Á¤ÈÆ > ±×¹ö¸©¾ø´Â³âµéÀÕÀ¸¸é
+[03/03 17:08:02] (54740778172762) À¯Áø > ±¤·Ä
+[03/03 17:08:03] (67837229684900) ³ª¸Å > ³»°¡ÁøÂ¥Á×ÀÏ²¨¾ß
+[03/03 17:08:03] (54740778172762) ¾ÈÁØÇõ > ¹ÝÅåÀ»¸¸µë
+[03/03 17:08:04] (68743371283615) ÀÌÁØ¿µ > ³¯¾¾
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611503258678235136L, u'userId': 64259958L, u'chatId': 74565359769027L}
+AHOTHER: MSG {u'status': 0, u'chatLog': {u'msgId': 696611185, u'sendAt': 1393834085, u'logId': 611503399187480576L, u'authorId': 135295614L, u'message': u'\ubca0\ub808\uae30 \uc0ac\uc694 ', u'type': 1, u'chatId': 74219665272242L}, u'logId': 611503399187480576L, u'chatId': 74219665272242L, u'errMsg': None, u'authorNickname': u'\uc9c0\ud6c8..'}
+AHOTHER: MSG {u'status': 0, u'chatLog': {u'msgId': 834085800, u'sendAt': 1393834086, u'logId': 611503401460617216L, u'authorId': 126849535L, u'message': u'\uc815\ud6c8', u'type': 1, u'chatId': 54740778172762L}, u'logId': 611503401460617216L, u'chatId': 54740778172762L, u'errMsg': None, u'authorNickname': u'\uc720\uc9c4'}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611503401460617216L, u'userId': 37661368L, u'chatId': 54740778172762L}
+AHOTHER: MSG {u'status': 0, u'chatLog': {u'msgId': 834084615, u'sendAt': 1393834086, u'logId': 611503404212260864L, u'authorId': 51484044L, u'message': u'\uc544 \uc9c4\uc9dc', u'type': 1, u'chatId': 67837229684900L}, u'logId': 611503404212260864L, u'chatId': 67837229684900L, u'errMsg': None, u'authorNickname': u'\ub098\ub9e4'}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611503365121310720L, u'userId': 127164941L, u'chatId': 71546240267481L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611503404212260864L, u'userId': 109402911L, u'chatId': 67837229684900L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611503398969382912L, u'userId': 62181236L, u'chatId': 68743371283615L}
+[03/03 17:08:07] (73534055126134) ±¸Åä > ±Ùµ¥ ¿©ÀÚ
+[03/03 17:08:07] (54740778172762) ¾ÈÁØÇõ > ³¡
+[03/03 17:08:09] (71546254938324) ÀÌÁØ¿µ > ³¯¾¾
+AHOTHER: MSG {u'status': 0, u'chatLog': {u'msgId': 834090191, u'sendAt': 1393834091, u'logId': 611503445484038144L, u'authorId': 103152431L, u'message': u'\ub108 \uc77c\ub85c\uc640\ubd10!', u'type': 1, u'chatId': 72425869567241L}, u'logId': 611503445484038144L, u'chatId': 72425869567241L, u'errMsg': None, u'authorNickname': u'\ube7d\ucad1'}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611503421324896256L, u'userId': 129734139L, u'chatId': 54740778172762L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611503445484038144L, u'userId': 68907203L, u'chatId': 72425869567241L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611503447430764544L, u'userId': 130296242L, u'chatId': 66957688640663L}
+AHOTHER: MSG {u'status': 0, u'chatLog': {u'msgId': 685886540, u'sendAt': 1393834091, u'logId': 611503447430764544L, u'authorId': 54786664L, u'message': u'\uc624\ub298\u3139', u'type': 1, u'chatId': 66957688640663L}, u'logId': 611503447430764544L, u'chatId': 66957688640663L, u'errMsg': None, u'authorNickname': u'\ucd5c\uc9c0\uc6b0\uac19\uc740\uac70'}
+[03/03 17:08:11] (74645077307812) ÃµÁö¿î > ¿©ÀÚÄ£±¸ÃßÃµÁ»
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611503448554405888L, u'userId': 127164941L, u'chatId': 71546254938324L}
+AHOTHER: MSG {u'status': 0, u'chatLog': {u'msgId': 834091552, u'sendAt': 1393834092, u'logId': 611503452689915904L, u'authorId': 19472798L, u'message': u'\ub098\ub294\ube44\uc790\uce74\ub4dc\ud558\ub098\uc787\uc5c7\uc5b4', u'type': 1, u'chatId': 64493356195307L}, u'logId': 611503452689915904L, u'chatId': 64493356195307L, u'errMsg': None, u'authorNickname': u'\uae40\uc2b9\uc6d0'}
+[03/03 17:08:11] (72958217424142) ±èÀÌÃµ > Å°¿öµå
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611503421324896256L, u'userId': 72277808L, u'chatId': 54740778172762L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611503452689915904L, u'userId': 35753439L, u'chatId': 64493356195307L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611503455542116352L, u'userId': 43117376L, u'chatId': 72958217424142L}
+[03/03 17:08:11] (54740778172762) ¾ÈÁØÇõ > ±×°Ô¹ÝÅå?
+[03/03 17:08:12] (74399966014930) Á¶Àç¹ü > As±â»ç¾ÆÀú¾¾ ¿È
+[03/03 17:08:13] (67837229684900) ³ª¸Å > ¿Ö1ÇÐ³â? ¿Ö¶§¹®¿¡?
+[03/03 17:08:13] (71546240267481) ÀÌÀç¼® > ´º½º
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611502745471518720L, u'userId': 4868189L, u'chatId': 29370598757758L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611503452689915904L, u'userId': 19472798L, u'chatId': 64493356195307L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611503406057717760L, u'userId': 127164941L, u'chatId': 68743371283615L}
+[03/03 17:08:14] (64493356195307) À¯Á¦ÇõÇõÇõÇõ > Áý¿¡¼­ °áÁ¦ °¡´ÉÇØ ÀÌÁ¦
+[03/03 17:08:15] (74399966014930) Á¶Àç¹ü > »¹ÁÜ
+[03/03 17:08:15] (72425869567241) »ªÂÐ > ³ÊÁ»¸ÂÀÚ
+[03/03 17:08:16] (66957688640663) ½¹½¹ > °¥ºñ¸Ô°í½Í´Ù
+[03/03 17:08:16] (73250243771522) ½ÅµÎ¿¬ > ¤»¤»¤»¤»
+[03/03 17:08:16] (74645077307812) ÃµÁö¿î > Áø½É
+[03/03 17:08:17] (66957688640663) ÃÖÁö¿ì°°Àº°Å > ÀÏÅ¬3¹ø¤¤ÀÌ¶û µµÅ¬ ´Ùµ¹¤©¾Æ¿ê
+[03/03 17:08:17] (73250243771522) ½ÅµÎ¿¬ > ´Ù¶ó
+[03/03 17:08:17] (67837229684900) ÀÌÁö¿¬ > ¹ÌÄ£
+[03/03 17:08:18] (73250243771522) ½ÅµÎ¿¬ > ÀÚ¶ó
+[03/03 17:08:18] (72969685619002) Àç¿¬ > ºÒ´ßº¸´Ü¾È¸Ê´Ù
+[03/03 17:08:18] (68743371283615) ¼Û¼®¿ø > µÇ°Ô½Ã²ô·´³×
+[03/03 17:08:19] (66957688640663) ½¹½¹ > °¥ºñ¸Ô°í½Í´Ù..
+[03/03 17:08:19] (66957688640663) ÀÌÁø¾Æ > ÄÝ
+[03/03 17:08:19] (64493356195307) ±è½Â¿ø > ³ª´Â
+[03/03 17:08:20] (71546240267481) ÀÌÁØ¿µ > ´º½º
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611503523481378816L, u'userId': 35753439L, u'chatId': 64493356195307L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611503527088592896L, u'userId': 121581599L, u'chatId': 71546240267481L}
+[03/03 17:08:20] (66957688640663) ÀÌÁø¾Æ > ÁÁ¾Æ
+[03/03 17:08:21] (72969685619002) Àç¿¬ > ±×·¡µµ¸Ê±ä¸Å¿ö
+[03/03 17:08:23] (64493356195307) ±è½Â¿ø > ½ºÆÀÇÒ¶§
+[03/03 17:08:23] (66957688640663) ÃÖÁö¿ì°°Àº°Å > À¯ÈÄ
+[03/03 17:08:24] (72425869567241) ³²»óÇõ > @³ª°¡
+[03/03 17:08:24] (72958217424142) ±èÀÌÃµ > ³ª¾ðÁ¦Á×¾î
+AHOTHER: MSG {u'status': 0, u'chatLog': {u'msgId': 834104791, u'sendAt': 1393834105, u'logId': 611503563444695040L, u'authorId': 109402911L, u'message': u'\uc774\ubc88\uc5d0 \uc9c4\uc2ec \ub2e4\uc88b\ub2e4\uace0', u'type': 1, u'chatId': 67837229684900L}, u'logId': 611503563444695040L, u'chatId': 67837229684900L, u'errMsg': None, u'authorNickname': u'\uc774\uc9c0\uc5f0'}
+AHOTHER: MSG {u'status': 0, u'chatLog': {u'msgId': 695696540, u'sendAt': 1393834105, u'logId': 611503565064247296L, u'authorId': 130296242L, u'message': u'\uc62c\ube44\ub358\ub3c4\uac00\ub294\uac70\uc57c', u'type': 1, u'chatId': 66957688640663L}, u'logId': 611503565064247296L, u'chatId': 66957688640663L, u'errMsg': None, u'authorNickname': u'\uc774\uc9c4\uc544'}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611503565064247296L, u'userId': 28853532L, u'chatId': 66957688640663L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611503565064247296L, u'userId': 54786664L, u'chatId': 66957688640663L}
+[03/03 17:08:25] (54740778172762) À¯Áø > ±×·¸±º
+[03/03 17:08:25] (73689578228177) ÂÐ¿ÍÀÌ > ¤·¤·
+[03/03 17:08:25] (68743371283615) ÀÌÁØ¿µ > ´º½º
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611500251362762753L, u'userId': 68635066L, u'chatId': 73753018506727L}
+[03/03 17:08:28] (74645077307812) ÃµÁö¿î > ¿©ÀÚÃßÃµÁ»
+[03/03 17:08:28] (71546240267481) ÀÌÀç¼® > ³¯¾¾
+[03/03 17:08:30] (71546254938324) ÀÌÁØ¿µ > ´º½º
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611503568033206272L, u'userId': 37661368L, u'chatId': 54740778172762L}
+AHOTHER: MSG {u'status': 0, u'chatLog': {u'msgId': 834109693, u'sendAt': 1393834111, u'logId': 611503613256177664L, u'authorId': 61019380L, u'message': u'\ubc29\uc548\uc5d0 \ub4e4\uc5b4\uac00\uc788\uc73c\uc2dc\uc624', u'type': 1, u'chatId': 74399966014930L}, u'logId': 611503613256177664L, u'chatId': 74399966014930L, u'errMsg': None, u'authorNickname': u'\u314a\u3145\u3147'}
+AHOTHER: MSG {u'status': 0, u'chatLog': {u'msgId': 685886543, u'sendAt': 1393834111, u'logId': 611503615874013184L, u'authorId': 54786664L, u'message': u'..\uc5b4.. ', u'type': 1, u'chatId': 66957688640663L}, u'logId': 611503615874013184L, u'chatId': 66957688640663L, u'errMsg': None, u'authorNickname': u'\ucd5c\uc9c0\uc6b0\uac19\uc740\uac70'}
+[03/03 17:08:31] (64493356195307) ±è½Â¿ø > °ÔÀÓ»ç´À¶ó Ä«µåÇÏ³ª»Ì¾Æ‡JÀ½
+[03/03 17:08:34] (72958217424142) ±èÀÌÃµ > ^¿À^
+[03/03 17:08:35] (64493356195307) À¯Á¦ÇõÇõÇõÇõ > ¤»¤» ³ª ºñÀÚÄ«µå »ÌÀ¸Ã ½ºÆÀ °¥·Á°¥²¨
+[03/03 17:08:37] (68743371283615) ÀÌÁØ¿µ > ³¯¾¾
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611503356749287424L, u'userId': 12288166L, u'chatId': 74563417609699L}
+[03/03 17:08:38] (67837229684900) ³ª¸Å > ÀÌ¹ø¿¡ 2ÇÐ³â¹Ì¼ú´ÙÁø¼±¾Ö¾ß
+[03/03 17:08:38] (67837229684900) ÀÌÁö¿¬ > ÇÏ
+[03/03 17:08:38] (73753018506727) Âù > ¾È³ã
+[03/03 17:08:39] (71546254938324) ÀÌÀç¼® > ³¯¾¾
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611503691035953152L, u'userId': 127164941L, u'chatId': 71546254938324L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611502621538359296L, u'userId': 44760036L, u'chatId': 48384689388583L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611503613256177664L, u'userId': 123453175L, u'chatId': 74399966014930L}
+AHOTHER: MSG {u'status': 0, u'chatLog': {u'msgId': 834119731, u'sendAt': 1393834121, u'logId': 611503697477801984L, u'authorId': 61019380L, u'message': u'\ubed8\ucb58\ud568\uc774 \uac10\uc18c\ud560\uac83\uc774\uc624.', u'type': 1, u'chatId': 74399966014930L}, u'logId': 611503697477801984L, u'chatId': 74399966014930L, u'errMsg': None, u'authorNickname': u'\u314a\u3145\u3147'}
+[03/03 17:08:40] (67837229684900) ÀÌÁö¿¬ > Á¤¸»
+[03/03 17:08:41] (54740778172762) ¾ÈÁØÇõ > ´õ±¸³ª
+[03/03 17:08:41] (73753018506727) Âù > ¾È³ç
+AHOTHER: MSG {u'status': 0, u'chatLog': {u'msgId': 1393830600, u'sendAt': 1393834122, u'logId': 611503709029111809L, u'authorId': 127164941L, u'message': u'\ub274\uc2a4', u'type': 1, u'chatId': 71546254938324L}, u'logId': 611503709029111809L, u'chatId': 71546254938324L, u'errMsg': None, u'authorNickname': u'\uc774\uc900\uc601'}
+[03/03 17:08:42] (67837229684900) ÀÌÁö¿¬ > ±×´Ï±î
+[03/03 17:08:42] (48384689388583) ÀüÀÇ¼º > ¤¾
+[03/03 17:08:43] (74399966014930) Á¶Àç¹ü > ³ª È¥ÀÚÀÓ
+[03/03 17:08:43] (64493356195307) ±è½Â¿ø > ³»°èÁ¤
+[03/03 17:08:43] (54740778172762) ¾ÈÁØÇõ > ¿ì¸®¹Ý´ãÀÓ
+[03/03 17:08:44] (74399966014930) Á¶Àç¹ü > ¤»¤»¤»
+[03/03 17:08:45] (72179790186782) Ãµµ¿±Ù > µî·Ï!±è¼ö¸í:º¹Çöµ¿ÀÎ¹ÎÆ®·Ñ
+AHOTHER: MSG {u'status': 0, u'chatLog': {u'msgId': 1393830601, u'sendAt': 1393834126, u'logId': 611503738640898048L, u'authorId': 127164941L, u'message': u'\ub274\uc2a4', u'type': 1, u'chatId': 71546240267481L}, u'logId': 611503738640898048L, u'chatId': 71546240267481L, u'errMsg': None, u'authorNickname': u'\uc774\uc900\uc601'}
+[03/03 17:08:45] (73689578228177) Á¤ÁØ¼ö > ¤»¤»¤»¤»¤»¤»
+[03/03 17:08:45] (72425869567241) »ªÂÐ > ¾Æ
+[03/03 17:08:46] (72958217424142) ±èÀÌÃµ > ¹¹¸Ô´Âµ¥
+[03/03 17:08:46] (73753018506727) Âù > ¿©ÀÚÄ£±¸ÃßÃµÁ»
+AHOTHER: MSG {u'status': 0, u'chatLog': {u'msgId': 834125473, u'sendAt': 1393834127, u'logId': 611503749982169088L, u'authorId': 37661368L, u'message': u'\uad50\uac10\ub530\uae4c\ub9ac\uc784', u'type': 1, u'chatId': 54740778172762L}, u'logId': 611503749982169088L, u'chatId': 54740778172762L, u'errMsg': None, u'authorNickname': u'\uc548\uc900\ud601'}
+[03/03 17:08:47] (54740778172762) À¯Áø > º½
+[03/03 17:08:48] (64493356195307) ±è½Â¿ø > ¸Å´Ï¾Æ¿¡¼­ 13¸¶³Í¿¡ÆÊ
+[03/03 17:08:49] (72958217424142) ±èÀÌÃµ > Á×¾î
+[03/03 17:08:49] (54740778172762) À¯Áø > ±¹¾î
+[03/03 17:08:50] (54740778172762) ¾ÈÁØÇõ > ÇÑ¼öÁÜÀÌ·¡
+[03/03 17:08:50] (68743371283615) ÀÌÁØ¿µ > ³¯¾¾
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611503731586465792L, u'userId': 123453175L, u'chatId': 74399966014930L}
+AHOTHER: MSG {u'status': 0, u'chatLog': {u'msgId': 834130902, u'sendAt': 1393834131, u'logId': 611503782823583744L, u'authorId': 19472798L, u'message': u'\u314b\u314b', u'type': 1, u'chatId': 64493356195307L}, u'logId': 611503782823583744L, u'chatId': 64493356195307L, u'errMsg': None, u'authorNickname': u'\uae40\uc2b9\uc6d0'}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611503782823583744L, u'userId': 37778182L, u'chatId': 64493356195307L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611503782823583744L, u'userId': 18512123L, u'chatId': 64493356195307L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611503782823583744L, u'userId': 35753439L, u'chatId': 64493356195307L}
+AHOTHER: MSG {u'status': 0, u'chatLog': {u'msgId': 834129761, u'sendAt': 1393834131, u'logId': 611503786690754560L, u'authorId': 68907203L, u'message': u'@\ub3c4\uc6c0\ub9d0', u'type': 1, u'chatId': 72425869567241L}, u'logId': 611503786690754560L, u'chatId': 72425869567241L, u'errMsg': None, u'authorNickname': u'\ub0a8\uc0c1\ud601'}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611503786690754560L, u'userId': 77305268L, u'chatId': 72425869567241L}
+AHOTHER: MSG {u'status': 0, u'chatLog': {u'msgId': 834131801, u'sendAt': 1393834132, u'logId': 611503789073616896L, u'authorId': 68635066L, u'message': u'\ub098\uac00', u'type': 1, u'chatId': 73753018506727L}, u'logId': 611503789073616896L, u'chatId': 73753018506727L, u'errMsg': None, u'authorNickname': u'\ucc2c'}
+[03/03 17:08:52] (54740778172762) À¯Áø > ¾Æ
+[03/03 17:08:53] (67837229684900) È«Á¤ÈÆ > ½Ã¹ã
+[03/03 17:08:53] (66968247565492) Ãß¿ìÃµ > ³ª´ë~~
+[03/03 17:08:54] (72179790186782) Ãµµ¿±Ù > ¶æ!±è¼ö¸í
+AHOTHER: MSG {u'status': 0, u'chatLog': {u'msgId': 834134973, u'sendAt': 1393834135, u'logId': 611503816537387008L, u'authorId': 109402911L, u'message': u'\ubbf8\uce5c \uc218\ud559 \uc190\uc21c\uc560 \ubbf8\uc220 \uc9c4\uc120\uc560', u'type': 1, u'chatId': 67837229684900L}, u'logId': 611503816537387008L, u'chatId': 67837229684900L, u'errMsg': None, u'authorNickname': u'\uc774\uc9c0\uc5f0'}
+[03/03 17:08:55] (74399966014930) ¤º¤µ¤· > °Å½Ç¿¡ ¾É¾ÆÀÖÀ¸¼À
+[03/03 17:08:55] (54740778172762) À¯Áø > ³ë´ä
+[03/03 17:08:55] (72425869567241) . > Àú»õ³¢
+[03/03 17:08:55] (73753018506727) Âù > ²¨Á®
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611503820866019328L, u'userId': 68907203L, u'chatId': 72425869567241L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611503820866019328L, u'userId': 103152431L, u'chatId': 72425869567241L}
+[03/03 17:08:55] (71546240267481) ÀÌÁØ¿µ > ´º½º
+AHOTHER: MSG {u'status': 0, u'chatLog': {u'msgId': 834134915, u'sendAt': 1393834137, u'logId': 611503829472655360L, u'authorId': 68907203L, u'message': u'\uc544\ub2cc\uac00', u'type': 1, u'chatId': 72425869567241L}, u'logId': 611503829472655360L, u'chatId': 72425869567241L, u'errMsg': None, u'authorNickname': u'\ub0a8\uc0c1\ud601'}
+[03/03 17:08:56] (71546254938324) ÀÌÀç¼® > ´º½º
+[03/03 17:08:57] (66957688640663) ½¹½¹ > ¤»¤»¤»¤»¤»¤»¤»¤»¤»¤»ÀâÃÊ´çÈ²
+[03/03 17:08:57] (72425869567241) . > º¿¾Æ´Ï´Ù
+[03/03 17:08:57] (54740778172762) ¾ÈÁØÇõ > ÇÑ¼öÁßÀÌ¿³µ¥
+[03/03 17:08:59] (67837229684900) ³ª¸Å > Æ÷Æ®Æú¸®¿ÀÁ¸³ª µÎ²®°ÔÇØ¾ßµÅ
+[03/03 17:08:59] (71546254938324) ÀÌÀç¼® > ³¯¾¾
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611503855552925696L, u'userId': 51484044L, u'chatId': 67837229684900L}
+AHOTHER: MSG {u'status': 0, u'chatLog': {u'msgId': 834140813, u'sendAt': 1393834141, u'logId': 611503864058775552L, u'authorId': 35616803L, u'message': u'\uc544\ud615\uc900\uc624\ube60\ub9d0\ub9cc\ub4e3\ub098..?', u'type': 1, u'chatId': 74565359769027L}, u'logId': 611503864058775552L, u'chatId': 74565359769027L, u'errMsg': None, u'authorNickname': u'\ucc44\uc5f0'}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611503858556454912L, u'userId': 121581599L, u'chatId': 71546254938324L}
+[03/03 17:09:00] (68743371283615) ÀÌÁØ¿µ > ´º½º
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611503865778601984L, u'userId': 62181236L, u'chatId': 71546254938324L}
+AHOTHER: MSG {u'status': 0, u'chatLog': {u'msgId': 834141296, u'sendAt': 1393834141, u'logId': 611503867313588224L, u'authorId': 122083375L, u'message': u'\uc874\uc798\uc778\ub370\uc5ec\ub2e4', u'type': 1, u'chatId': 73534055126134L}, u'logId': 611503867313588224L, u'chatId': 73534055126134L, u'errMsg': None, u'authorNickname': u'\uad6c\ud1a0'}
+[03/03 17:09:01] (72425869567241) »ªÂÐ > ÁøÂ¥
+[03/03 17:09:01] (54740778172762) ¾ÈÁØÇõ > ±³°¨ÀÌ¶û°¡Æ°ÇÐ±³¾ù´Ù°¡
+[03/03 17:09:01] (74399966014930) Á¶Àç¹ü > ¤»¤»¤»
+[03/03 17:09:01] (72425869567241) ³²»óÇõ > ¤©¤·?
+[03/03 17:09:03] (73689578228177) ÂÐ¿ÍÀÌ > ¤»¤»¤»¤»
+[03/03 17:09:04] (72425869567241) »ªÂÐ > ÇÏ¼º¹Î
+[03/03 17:09:05] (73689578228177) ÂÐ¿ÍÀÌ > ¾Æ³ª
+[03/03 17:09:05] (72425869567241) ³²»óÇõ > ¹ÌÄ£?
+[03/03 17:09:05] (72425869567241) . > @³ª°¡
+AHOTHER: MSG {u'status': 0, u'chatLog': {u'msgId': 834145099, u'sendAt': 1393834146, u'logId': 611503908384153600L, u'authorId': 115486210L, u'message': u'2\ubc18\uc7ac\ubc0b\ub0d0', u'type': 1, u'chatId': 67837229684900L}, u'logId': 611503908384153600L, u'chatId': 67837229684900L, u'errMsg': None, u'authorNickname': u'\ud64d\uc815\ud6c8'}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611503907402823680L, u'userId': 77305268L, u'chatId': 72425869567241L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611503908191428608L, u'userId': 103152431L, u'chatId': 72425869567241L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611503908384153600L, u'userId': 109402911L, u'chatId': 67837229684900L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611503908384153600L, u'userId': 27670089L, u'chatId': 67837229684900L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611503908191428608L, u'userId': 68907203L, u'chatId': 72425869567241L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611503910456328192L, u'userId': 103152431L, u'chatId': 72425869567241L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611503906505236480L, u'userId': 37937214L, u'chatId': 73689578228177L}
+AHOTHER: MSG {u'status': 0, u'chatLog': {u'msgId': 834145697, u'sendAt': 1393834146, u'logId': 611503911538313216L, u'authorId': 43117376L, u'message': u'\ub85c\ub610\ud655\ub960', u'type': 1, u'chatId': 72958217424142L}, u'logId': 611503911538313216L, u'chatId': 72958217424142L, u'errMsg': None, u'authorNickname': u'\uae40\uc774\ucc9c'}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611503910456328192L, u'userId': 77305268L, u'chatId': 72425869567241L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611503910456328192L, u'userId': 68907203L, u'chatId': 72425869567241L}
+[03/03 17:09:06] (54740778172762) ¾ÈÁØÇõ > ±³°¨ÀÌµ¥¸®°í¿Ó´õ
+[03/03 17:09:07] (73753018506727) Âù > ³»°¡ Á×À» È®·ü
+[03/03 17:09:07] (67837229684900) ³ª¸Å > ¾ÖÀÚµé½Ã¹ß
+[03/03 17:09:08] (54740778172762) ¾ÈÁØÇõ > ¾¾¹ß
+[03/03 17:09:09] (72958217424142) ±èÀÌÃµ > ·Î¶Ç
+AHOTHER: MSG {u'status': 0, u'chatLog': {u'msgId': 834149309, u'sendAt': 1393834150, u'logId': 611503943549198337L, u'authorId': 115486210L, u'message': u'\ub098\ub9e4\uba87\ubc18\uc784?', u'type': 1, u'chatId': 67837229684900L}, u'logId': 611503943549198337L, u'chatId': 67837229684900L, u'errMsg': None, u'authorNickname': u'\ud64d\uc815\ud6c8'}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611503927241969664L, u'userId': 51484044L, u'chatId': 67837229684900L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611503943549198337L, u'userId': 109402911L, u'chatId': 67837229684900L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611493171427436544L, u'userId': 56202548L, u'chatId': 42803698249705L}
+[03/03 17:09:10] (54740778172762) À¯Áø > ¾îÈÞ
+[03/03 17:09:10] (67837229684900) ÀÌÁö¿¬ > À¯°æ¾ÖÇÑÅ× ¿åµè°í½ÍÀ»Á¤µµ
+[03/03 17:09:11] (73753018506727) Âù > ²¨Á®
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611503954102169600L, u'userId': 27670089L, u'chatId': 67837229684900L}
+[03/03 17:09:11] (71546240267481) ÀÌÀç¼® > µµ·ç ³¯¾¾
+[03/03 17:09:13] (72425869567241) ³²»óÇõ > ¹¹³Ä
+[03/03 17:09:14] (54740778172762) À¯Áø > Âü
+[03/03 17:09:15] (71546240267481) ÀÌÀç¼® > ³¯¾¾
+AHOTHER: MSG {u'status': 0, u'chatLog': {u'msgId': 834157336, u'sendAt': 1393834156, u'logId': 611503992136630273L, u'authorId': 123453175L, u'message': u'\uc6b0\ub9ac\uc9d1\uc758 \ub354\ub7ec\uc6b4 \ud658\uacbd\ubcf4\uace0 \uae30\uac81\ud587\uc744\ub4ef', u'type': 1, u'chatId': 74399966014930L}, u'logId': 611503992136630273L, u'chatId': 74399966014930L, u'errMsg': None, u'authorNickname': u'\uc870\uc7ac\ubc94'}
+AHOTHER: MSG {u'status': 0, u'chatLog': {u'msgId': 834156714, u'sendAt': 1393834156, u'logId': 611503993067339776L, u'authorId': 29539901L, u'message': u'\ub864\uc804\uc801 \uae40\uacbd\ud658\ub300\uc7a5', u'type': 1, u'chatId': 67807514778851L}, u'logId': 611503993067339776L, u'chatId': 67807514778851L, u'errMsg': None, u'authorNickname': u'\uae40\uacbd\ud658'}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611503992136630273L, u'userId': 61019380L, u'chatId': 74399966014930L}
+AHOTHER: MSG {u'status': 0, u'chatLog': {u'msgId': 834155698, u'sendAt': 1393834156, u'logId': 611503995256629248L, u'authorId': 103152431L, u'message': u'\uc124\ub9cf\u3137', u'type': 1, u'chatId': 72425869567241L}, u'logId': 611503995256629248L, u'chatId': 72425869567241L, u'errMsg': None, u'authorNickname': u'\ube7d\ucad1'}
+[03/03 17:09:16] (74215832137124) À¯¸®;) > Å°¿öµå
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611503995575533568L, u'userId': 62181236L, u'chatId': 71546240267481L}
+[03/03 17:09:16] (54740778172762) ¾ÈÁØÇõ > ¿ì¸®¹ÝÀº°Á
+[03/03 17:09:16] (74565359769027) ÀºÁ¤ > ±×¸¥°­¤Ð
+[03/03 17:09:16] (72958217424142) ±èÀÌÃµ > ³ß~
+[03/03 17:09:17] (73689578228177) ÂÐ¿ÍÀÌ > ÇÚµåÆùÁ¸³ª¸¾¿¡¾Èµê
+[03/03 17:09:17] (72958217424142) ±èÈ£¿¬ > ¾ßµ¿
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504005272791040L, u'userId': 43117376L, u'chatId': 72958217424142L}
+[03/03 17:09:17] (67837229684900) ÀÌÁö¿¬ > 2¹Ý½â¾ú¾î
+[03/03 17:09:17] (54740778172762) À¯Áø > Â¥°íÇÇ³×
+[03/03 17:09:17] (74399966014930) ¤º¤µ¤· > ¾Æ´Ï¸é ÁÖ½º¶óµµ ÇÑÀÜ ´ëÁ¢ÇÏ´Â°Ô ¾î¶²°¡
+[03/03 17:09:18] (54740778172762) ¾ÈÁØÇõ > ´Ù¿ÀÇÇÀÓ
+[03/03 17:09:18] (72425869567241) ³²»óÇõ > @µµ¿ò¸»
+[03/03 17:09:20] (72425869567241) . > @²¨Á®
+[03/03 17:09:21] (74565359769027) »Ç±Û > ¤»¤»
+[03/03 17:09:23] (73753018506727) Âù > ³»°¡ ÂøÇÒÈ®·üÀº?
+[03/03 17:09:23] (72958217424142) ±èÈ£¿¬ > ¤»¤»
+[03/03 17:09:24] (72958217424142) ±èÀÌÃµ > È®·ü
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504067423815680L, u'userId': 131966207L, u'chatId': 72958217424142L}
+AHOTHER: MSG {u'status': 0, u'chatLog': {u'msgId': 696775016, u'sendAt': 1393834165, u'logId': 611504068917129216L, u'authorId': 6131146L, u'message': u'\uc548\ub098\uc634', u'type': 1, u'chatId': 67807514778851L}, u'logId': 611504068917129216L, u'chatId': 67807514778851L, u'errMsg': None, u'authorNickname': u'\uc774\uc13c\uc2a4'}
+[03/03 17:09:25] (29370598757758) ? > ........
+[03/03 17:09:25] (67807514778851) ÀÌ¼¾½º > ¤»¤»¤»¤»¤»¤»¤»¤»¤»¤»¤»¤»¤»
+[03/03 17:09:26] (72958217424142) ±èÈ£¿¬ > ¼½½º
+[03/03 17:09:26] (67837229684900) ³ª¸Å > ³ª6¹Ý
+[03/03 17:09:26] (73689578228177) ÂÐ¿ÍÀÌ > »¡¸®2Áö·Î¹Ù²Ù°í½Í´Ù
+[03/03 17:09:27] (71546254938324) ÀÌÀç¼® > ´º½º
+AHOTHER: MSG {u'status': 0, u'chatLog': {u'msgId': 834168287, u'sendAt': 1393834168, u'logId': 611504090123534336L, u'authorId': 29539901L, u'message': u'\uc5b4\ub5a0\ucf00\ud568\uc800\uac70', u'type': 1, u'chatId': 67807514778851L}, u'logId': 611504090123534336L, u'chatId': 67807514778851L, u'errMsg': None, u'authorNickname': u'\uae40\uacbd\ud658'}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504090123534336L, u'userId': 6131146L, u'chatId': 67807514778851L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504070603694080L, u'userId': 52054610L, u'chatId': 29370598757758L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504040999782400L, u'userId': 51736242L, u'chatId': 74565359769027L}
+[03/03 17:09:28] (74565359769027) »Ç±Û > ÇØº¼±ø
+[03/03 17:09:28] (73753018506727) Âù > ³»°¡ ÂøÇÒ È®·ü
+AHOTHER: MSG {u'status': 0, u'chatLog': {u'msgId': 834169270, u'sendAt': 1393834169, u'logId': 611504102043602944L, u'authorId': 126849535L, u'message': u'\uc774\ub098\uc601 \ubc84\ud504', u'type': 1, u'chatId': 54740778172762L}, u'logId': 611504102043602944L, u'chatId': 54740778172762L, u'errMsg': None, u'authorNickname': u'\uc720\uc9c4'}
+[03/03 17:09:29] (67837229684900) ³ª¸Å > ¿ÀÁ¤È£´ãÀÓ
+[03/03 17:09:30] (67837229684900) È«Á¤ÈÆ > 6¹Ý¿¡
+[03/03 17:09:30] (72958217424142) ±èÈ£¿¬ > ¹ÌÄ£
+[03/03 17:09:31] (74565359769027) ÀºÁ¤ > ÀÀ
+[03/03 17:09:32] (72958217424142) ±èÈ£¿¬ > Á¤¾×
+[03/03 17:09:32] (74399966014930) Á¶Àç¹ü > ³ÃÀå°í ±â»ç¾ÆÀú¾¾
+[03/03 17:09:32] (73753018506727) Âù > ¤»
+[03/03 17:09:33] (66957688640663) ÃÖÁö¿ì°°Àº°Å > Å¯Å¯
+[03/03 17:09:33] (74215832137124) À¯¸®;) > ³ë·¡ÃßÃµÁ»
+[03/03 17:09:33] (72958217424142) ±èÈ£¿¬ > ¹ß»ç±â
+[03/03 17:09:34] (67837229684900) È«Á¤ÈÆ > ³»Ä£±¸´©±¸ÀÕ¾î?
+[03/03 17:09:34] (29370598757758) ÇÑÁ¾¿ø > 7
+[03/03 17:09:34] (72425869567241) . > ·Î¶Ç
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504155990908928L, u'userId': 103152431L, u'chatId': 72425869567241L}
+[03/03 17:09:35] (72958217424142) ±èÈ£¿¬ > Èì
+[03/03 17:09:36] (74565359769027) »Ç±Û > ÇüÁðÀÌ°¡ ÀºÁ¤ÀÌÁÁ¾ÆÇÒÈ®·ü
+AHOTHER: MSG {u'status': 0, u'chatLog': {u'msgId': 834178557, u'sendAt': 1393834177, u'logId': 611504170553933825L, u'authorId': 123453175L, u'message': u'\ud6c4\ud6d7...', u'type': 1, u'chatId': 74399966014930L}, u'logId': 611504170553933825L, u'chatId': 74399966014930L, u'errMsg': None, u'authorNickname': u'\uc870\uc7ac\ubc94'}
+[03/03 17:09:37] (54740778172762) À¯Áø > ½Ã¹ß ¤¸µÇ°Ú³×
+[03/03 17:09:37] (54740778172762) À¯Áø > ¾ÆÁÖ
+[03/03 17:09:38] (29370598757758) ÇÑÁ¾¿ø > ¿¬ÆÐ
+[03/03 17:09:38] (72958217424142) ±èÈ£¿¬ > ¾ÊµÇ³×
+[03/03 17:09:40] (73534055126134) »ç¿ù > ??
+[03/03 17:09:40] (29370598757758) ÀÌÁ¾¹è > ´©°¡7¿¬ÆÐ??
+[03/03 17:09:41] (72958217424142) ±èÈ£¿¬ > ÀÌ·±°Ç
+[03/03 17:09:41] (74565359769027) »Ç±Û > 24ÆÛ·¹^^¤»¤»
+[03/03 17:09:42] (72425869567241) ³²»óÇõ > ¿Ã¤»
+[03/03 17:09:42] (74563417609699) ²ô¾Æ¾Æ¾Ó > .
+[03/03 17:09:43] (67807514778851) ±è°æÈ¯ > ³ª¾ðÁ¦Á×¾î
+[03/03 17:09:43] (72425869567241) »ªÂÐ > ¼º¹Îº¿
+[03/03 17:09:43] (72958217424142) ±èÀÌÃµ > ·Î¶ÇÇÒÈ®·ü
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504228996794368L, u'userId': 131966207L, u'chatId': 72958217424142L}
+AHOTHER: MSG {u'status': 0, u'chatLog': {u'msgId': 834183494, u'sendAt': 1393834184, u'logId': 611504229844219904L, u'authorId': 134546919L, u'message': u'\uba3c\ub9d0\uc774\uc57c', u'type': 1, u'chatId': 73534055126134L}, u'logId': 611504229844219904L, u'chatId': 73534055126134L, u'errMsg': None, u'authorNickname': u'\uc0ac\uc6d4'}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504228367656960L, u'userId': 68907203L, u'chatId': 72425869567241L}
+[03/03 17:09:44] (74215832137124) À¯¸®;) > Å°¿öµå
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504231245086720L, u'userId': 92458490L, u'chatId': 72958217424142L}
+AHOTHER: MSG {u'status': 0, u'chatLog': {u'msgId': 833939309, u'sendAt': 1393834185, u'logId': 611504234709606400L, u'authorId': 7259086L, u'message': u'\ub864\uc804\uc801 \uc5c6\uc5c8\ub294\ub370 \uc774\uc0c8\ub07c\uac00 \ub098 \uc886\ud765\ud55c\uac70\ubcf4\uace0 \ub530\ub77c\ud568\u314b\u314b', u'type': 1, u'chatId': 74645873012196L}, u'logId': 611504234709606400L, u'chatId': 74645873012196L, u'errMsg': None, u'authorNickname': u'vilmire'}
+AHOTHER: MSG {u'status': 0, u'chatLog': {u'msgId': 695001003, u'sendAt': 1393834185, u'logId': 611504235255306240L, u'authorId': 28853532L, u'message': u'\uc624\ucf00\uc774', u'type': 1, u'chatId': 66957688640663L}, u'logId': 611504235255306240L, u'chatId': 66957688640663L, u'errMsg': None, u'authorNickname': u'\uc29d\uc29d'}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504229844219904L, u'userId': 134546919L, u'chatId': 73534055126134L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504204435081217L, u'userId': 30779110L, u'chatId': 29370598757758L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504235255306240L, u'userId': 55965170L, u'chatId': 66957688640663L}
+[03/03 17:09:45] (67837229684900) ©¢vC½ºÅ¸Çü ±¤ÆÒ[C.oke]15 > 2¹Ý
+[03/03 17:09:45] (72958217424142) ¹Ú½ÂÇö > È£¿¬´ÔÀÌ´ÚÄ¥È®À²Àº?
+[03/03 17:09:45] (72958217424142) ±èÈ£¿¬ > ´ÙÀ½´º½º
+[03/03 17:09:45] (29370598757758) ? > ¿Í
+[03/03 17:09:46] (66957688640663) ½¹½¹ > ¾Æ¹ÙÅ¸ºÐÇØ¸¦ÇÏ°Ù¾î
+[03/03 17:09:47] (74399966014930) Á¶Àç¹ü > ¾ö¸¶ ¾ðÁ¦¿Í 5ºÐÀÌ¸é ¿Â´Ù¸é¼­
+[03/03 17:09:48] (72425869567241) »ªÂÐ > 5ÃÊ³»³ª°¡¶ó
+[03/03 17:09:49] (67837229684900) ½ÃÇö > ¾Æ´Ï°úÇÐ ³ë·¡·Î¼öÇàÆò°¡°¡¹¹þ¤»¤»¤»¤»
+[03/03 17:09:49] (66957688640663) ÀÌÁø¾Æ > ³ª¿¹Àü¿¡
+[03/03 17:09:49] (74215832137124) À¯¸®;) > ³ë·¡ÃßÃµ
+[03/03 17:09:50] (74565359769027) »Ç±Û > ÇüÁØÀÌ°¡ÀºÁ¤ÀÌ½È¾îÇÒÈ®·ü
+AHOTHER: MSG {u'status': 0, u'chatLog': {u'msgId': 834190406, u'sendAt': 1393834191, u'logId': 611504284395278336L, u'authorId': 64259958L, u'message': u'\ud615\uc98c\uc774\uc57c?', u'type': 1, u'chatId': 74565359769027L}, u'logId': 611504284395278336L, u'chatId': 74565359769027L, u'errMsg': None, u'authorNickname': u'\uc740\uc815'}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504280068036608L, u'userId': 62564026L, u'chatId': 74215832137124L}
+AHOTHER: MSG {u'status': 0, u'chatLog': {u'msgId': 834190287, u'sendAt': 1393834191, u'logId': 611504284294506497L, u'authorId': 103152431L, u'message': u'5', u'type': 1, u'chatId': 72425869567241L}, u'logId': 611504284294506497L, u'chatId': 72425869567241L, u'errMsg': None, u'authorNickname': u'\ube7d\ucad1'}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504283665434624L, u'userId': 64259958L, u'chatId': 74565359769027L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504284395278336L, u'userId': 51736242L, u'chatId': 74565359769027L}
+[03/03 17:09:50] (74399966014930) Á¶Àç¹ü > 9ºÐÁö³²
+[03/03 17:09:51] (67837229684900) ©¢vC½ºÅ¸Çü ±¤ÆÒ[C.oke]15 > °³Á¶¿ëÇÑµ¥
+[03/03 17:09:51] (29370598757758) ? > º¿»õ³¢°¡ Á¸³ª ÃµÀç³×
+[03/03 17:09:51] (72425869567241) »ªÂÐ > 4
+[03/03 17:09:51] (66957688640663) ÃÖÁö¿ì°°Àº°Å > ?!
+[03/03 17:09:51] (67837229684900) ³ª¸Å > ¸ô·¯
+[03/03 17:09:52] (72425869567241) ³²»óÇõ > ·ÑÀüÀû@ºê·ÐÁî¾ÈÀüÁöÅ°¹Ì
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504297699588096L, u'userId': 103152431L, u'chatId': 72425869567241L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504297330577408L, u'userId': 115486210L, u'chatId': 67837229684900L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504296433391616L, u'userId': 55965170L, u'chatId': 66957688640663L}
+[03/03 17:09:53] (66957688640663) ÀÌÁø¾Æ > ÀÏ¹ÝÇÑÆÇ°¡´Â°Íµµ
+[03/03 17:09:53] (72425869567241) »ªÂÐ > 3
+[03/03 17:09:54] (64665003138061) ¿ì¿µ > ¿À¿À¿À
+[03/03 17:09:54] (72425869567241) »ªÂÐ > 2
+[03/03 17:09:54] (66957688640663) ÀÌÁø¾Æ > Èûµç¾Ö¿´¾î
+[03/03 17:09:55] (67837229684900) ©¢vC½ºÅ¸Çü ±¤ÆÒ[C.oke]15 > ÁÁÀ¸Á¡Àº
+[03/03 17:09:55] (64665003138061) ¿ì¿µ > ¿À¿À¿À
+[03/03 17:09:55] (67837229684900) ÀÌÁö¿¬ > 2¹Ýº°·Î
+[03/03 17:09:56] (74565359769027) Ã¤¿¬ > ¾Æ¿Ö¿Àºü¸»¸¸µé¾î?
+[03/03 17:09:56] (74565359769027) »Ç±Û > ¾Æ´Ï±¸³ª
+[03/03 17:09:56] (64665003138061) ¿ì¿µ > ¿À¿À¿À
+[03/03 17:09:57] (72425869567241) »ªÂÐ > 1
+[03/03 17:09:57] (67837229684900) ©¢vC½ºÅ¸Çü ±¤ÆÒ[C.oke]15 > ÇîÆù
+[03/03 17:09:58] (67837229684900) ÀÌÁö¿¬ > ¤·¤·
+[03/03 17:09:59] (72969685619002) Àç¿¬ > Åº»êÇÏ°í¸ÔÀ¸´Ï±ñ¸Å¿ö
+[03/03 17:09:59] (64493356195307) ±è½Â¿ø > ¾Æµð´Ù½º
+[03/03 17:09:59] (72969685619002) Àç¿¬ > ¤Ñ¤Ñ..
+[03/03 17:10:00] (64665003138061) ¿ì¿µ > ¿À¿À¿À¿À
+[03/03 17:10:00] (67837229684900) ©¢vC½ºÅ¸Çü ±¤ÆÒ[C.oke]15 > ¾È³»µµ
+[03/03 17:10:00] (71546254938324) ÀÌÀç¼® > ´º½º
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504367819952128L, u'userId': 51484044L, u'chatId': 67837229684900L}
+AHOTHER: MSG {u'status': 0, u'chatLog': {u'msgId': 685886546, u'sendAt': 1393834201, u'logId': 611504372115412992L, u'authorId': 54786664L, u'message': u'\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b', u'type': 1, u'chatId': 66957688640663L}, u'logId': 611504372115412992L, u'chatId': 66957688640663L, u'errMsg': None, u'authorNickname': u'\ucd5c\uc9c0\uc6b0\uac19\uc740\uac70'}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504372115412992L, u'userId': 130296242L, u'chatId': 66957688640663L}
+[03/03 17:10:01] (64665003138061) ¿ì¿µ > ¿À¿À¿À¿À
+[03/03 17:10:01] (29370598757758) ÀÌÁ¾¹è > ºÎÇöÀÌÁö°íÀÕÀ½??
+[03/03 17:10:02] (72958217424142) ±èÀÌÃµ > ½ÂÇöÁ×´ÂÈ®·ü
+[03/03 17:10:02] (74563417609699) ¹Ú°æ > ??
+[03/03 17:10:02] (29370598757758) ? > 76ÆÛÀÇ È®·ü¤Ñ¤Ñ
+[03/03 17:10:02] (74565359769027) »Ç±Û > ÇüÁØÀÌ°¡ÀºÁ¤ÀÌÁÁ¾ÆÇÒÈ®·ü
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504363684356096L, u'userId': 35753439L, u'chatId': 64493356195307L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504387952609280L, u'userId': 64259958L, u'chatId': 74565359769027L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504386845827072L, u'userId': 121971767L, u'chatId': 29370598757758L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504387952609280L, u'userId': 35616803L, u'chatId': 74565359769027L}
+AHOTHER: MSG {u'status': 0, u'chatLog': {u'msgId': 834202979, u'sendAt': 1393834203, u'logId': 611504389764583424L, u'authorId': 64259958L, u'message': u'\u3161\u3161', u'type': 1, u'chatId': 74565359769027L}, u'logId': 611504389764583424L, u'chatId': 74565359769027L, u'errMsg': None, u'authorNickname': u'\uc740\uc815'}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504389764583424L, u'userId': 51736242L, u'chatId': 74565359769027L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504389764583424L, u'userId': 35616803L, u'chatId': 74565359769027L}
+[03/03 17:10:03] (64665003138061) ¿ì¿µ > ¿À¿À¿À
+[03/03 17:10:03] (64493356195307) ±è½Â¿ø > ½ºÆ÷Ã÷½Ã°è·Î
+[03/03 17:10:03] (66968247565492) ÁÖÇÑ > »ç½ÇÀÓ
+[03/03 17:10:03] (67837229684900) ©¢vC½ºÅ¸Çü ±¤ÆÒ[C.oke]15 > ¹¹¶ó¾ÈÇØ¤»
+[03/03 17:10:04] (54740778172762) À¯Áø > ÇÏ 5¹ÝÀÌ°í½Í´Ù
+[03/03 17:10:04] (64665003138061) ¿ì¿µ > ¿À¿À¿À
+[03/03 17:10:05] (29370598757758) ÇÑÁ¾¿ø > ºÎÇöÀÌ°¡ 7¿¬ÆÐ¿¡
+[03/03 17:10:05] (64493356195307) ±è½Â¿ø > ÇÏ³ª»ì°¡
+[03/03 17:10:07] (66957688640663) ÀÌÁø¾Æ > ÀºÀÌ°¡³¯
+[03/03 17:10:07] (74633911329235) ÁøÇô±â > ¶æ! ÃÖ¿ëÈ£´Â ºÎ»ç°üÀÌ µÉ±î¿ä : ¾Æ´Ï¿ä Àý´ë ¾ÈµÇ¿ä
+[03/03 17:10:08] (29370598757758) ÇÑÁ¾¿ø > Áö±Ý °­µî¶ä
+[03/03 17:10:09] (29370598757758) ÀÌÁ¾¹è > Çæ ¤»¤»¤»¤»¤»
+[03/03 17:10:09] (72425869567241) »ªÂÐ > ....
+[03/03 17:10:09] (54740778172762) À¯Áø > ÇÏ
+[03/03 17:10:09] (74565359769027) ÀºÁ¤ > ³ª½Ã·¯ÇÏ±¸³ª
+[03/03 17:10:09] (66957688640663) ÀÌÁø¾Æ > ÀÌ·¸°Ô¸¸µç°Å¾ß
+[03/03 17:10:09] (72958217424142) ¹Ú½ÂÇö > ¤»¤»¤¼
+[03/03 17:10:09] (67837229684900) ÀÌÁö¿¬ > ³ª ¾È³¿
+[03/03 17:10:09] (74565359769027) »Ç±Û > ÀºÁ¤¾ÆÇØ¹Ù ¤»¤»
+[03/03 17:10:10] (74563417609699) ¹Ú°æ > 9¸íÀÌ³ª..
+[03/03 17:10:10] (72425869567241) »ªÂÐ > ,..
+[03/03 17:10:10] (73689578228177) ÂÐ¿ÍÀÌ > ¤»¤»
+[03/03 17:10:11] (74215832137124) ±â»ÝE > ³ë·¡
+[03/03 17:10:11] (72958217424142) ±èÈ£¿¬ > 0.9999ÆÛ¼¾Æ® ÀÔ´Ï´Ù
+ºñ±³Àû ³ôÀºÈ®·ü·Î ÀÏ¾î³ªÁö¾Ê½À´Ï´Ù
+[03/03 17:10:12] (66957688640663) ½¹½¹ > ¿Í
+[03/03 17:10:12] (67837229684900) ©¢vC½ºÅ¸Çü ±¤ÆÒ[C.oke]15 > ¾êµé´ÙÁ¶¿ä½Ø
+[03/03 17:10:12] (67837229684900) È«Á¤ÈÆ > 3¹ÝÁ©Á¿°°À½
+[03/03 17:10:13] (66957688640663) ÃÖÁö¿ì°°Àº°Å > È÷È÷
+[03/03 17:10:13] (54740778172762) À¯Áø > 5¹Ý Á»
+[03/03 17:10:13] (72958217424142) ±èÀÌÃµ > ÀÌÃµÁ×´ÂÈ®·ü
+AHOTHER: MSG {u'status': 0, u'chatLog': {u'msgId': 1393832177, u'sendAt': 1393834214, u'logId': 611504481259145216L, u'authorId': 52054610L, u'message': u'\ub300\ubc15 \u314b\u314b\u314b', u'type': 1, u'chatId': 29370598757758L}, u'logId': 611504481259145216L, u'chatId': 29370598757758L, u'errMsg': None, u'authorNickname': u'\uc774\uc885\ubc30'}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504480269158400L, u'userId': 131966207L, u'chatId': 72958217424142L}
+[03/03 17:10:14] (74215832137124) ±â»ÝE > ÃßÃµ
+[03/03 17:10:14] (67837229684900) È«Á¤ÈÆ > ³»°¡
+[03/03 17:10:14] (72425869567241) »ªÂÐ > 3ÃÊ¸¸´õÁÖÁö
+[03/03 17:10:15] (54740778172762) À¯Áø > °¡°í½Í´Ù
+[03/03 17:10:16] (72425869567241) ³²»óÇõ > ÀÌ·±°Å
+[03/03 17:10:16] (74215832137124) ±â»ÝE > Å°¿öµå
+AHOTHER: MSG {u'status': 0, u'chatLog': {u'msgId': 834216757, u'sendAt': 1393834217, u'logId': 611504506315794432L, u'authorId': 103152431L, u'message': u'\ud6d7', u'type': 1, u'chatId': 72425869567241L}, u'logId': 611504506315794432L, u'chatId': 72425869567241L, u'errMsg': None, u'authorNickname': u'\ube7d\ucad1'}
+AHOTHER: MSG {u'status': 0, u'chatLog': {u'msgId': 834217050, u'sendAt': 1393834217, u'logId': 611504507012124672L, u'authorId': 103927345L, u'message': u'\ub098\ub294\ube7c\uace0\u314b', u'type': 1, u'chatId': 67837229684900L}, u'logId': 611504507012124672L, u'chatId': 67837229684900L, u'errMsg': None, u'authorNickname': u'\u0110vC\uc2a4\ud0c0\ud615 \uad11\ud32c[C.oke]15'}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504504554272768L, u'userId': 103152431L, u'chatId': 72425869567241L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504506315794432L, u'userId': 68907203L, u'chatId': 72425869567241L}
+AHOTHER: MSG {u'status': 0, u'chatLog': {u'msgId': 834216188, u'sendAt': 1393834217, u'logId': 611504508077576192L, u'authorId': 51484044L, u'message': u'6\ubc18\ub3c4 \ud578\u3142\ud3f0\uac77\uc73c\ub780\ub9d0\uc548\ud574', u'type': 1, u'chatId': 67837229684900L}, u'logId': 611504508077576192L, u'chatId': 67837229684900L, u'errMsg': None, u'authorNickname': u'\ub098\ub9e4'}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504507012124672L, u'userId': 109402911L, u'chatId': 67837229684900L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504507012124672L, u'userId': 51484044L, u'chatId': 67837229684900L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504508077576192L, u'userId': 109402911L, u'chatId': 67837229684900L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504508077576192L, u'userId': 103927345L, u'chatId': 67837229684900L}
+[03/03 17:10:17] (74565359769027) »Ç±Û > ÀºÁ¤ÀÌ°¡ ÇüÁØÀÌÁÁ¾ÆÇÒ È®·ü
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504512078841857L, u'userId': 64259958L, u'chatId': 74565359769027L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504512078841857L, u'userId': 35616803L, u'chatId': 74565359769027L}
+[03/03 17:10:18] (72958217424142) ±èÈ£¿¬ > ¤»¤»¤»
+[03/03 17:10:18] (74633911329235) ÁøÇô±â > µî·Ï! ÃÖ¿ëÈ£´Â ºÎ»ç°üÀÌ µÉ±î¿ä : ¾Æ´Ï¿ä Àý´ë ¾ÈµÇ¿ä
+AHOTHER: MSG {u'status': 0, u'chatLog': {u'msgId': 834218150, u'sendAt': 1393834219, u'logId': 611504517984348160L, u'authorId': 103152431L, u'message': u'3', u'type': 1, u'chatId': 72425869567241L}, u'logId': 611504517984348160L, u'chatId': 72425869567241L, u'errMsg': None, u'authorNickname': u'\ube7d\ucad1'}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504498195615744L, u'userId': 126849535L, u'chatId': 54740778172762L}
+AHOTHER: MSG {u'status': 0, u'chatLog': {u'msgId': 834216683, u'sendAt': 1393834219, u'logId': 611504518563756032L, u'authorId': 92458490L, u'message': u'\uc131\ubbfc\uc544\ub098\uac00 \u314b', u'type': 1, u'chatId': 72958217424142L}, u'logId': 611504518563756032L, u'chatId': 72958217424142L, u'errMsg': None, u'authorNickname': u'\ubc15\uc2b9\ud604'}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504518563756032L, u'userId': 131966207L, u'chatId': 72958217424142L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504508077576192L, u'userId': 22568644L, u'chatId': 67837229684900L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504515853805568L, u'userId': 92458490L, u'chatId': 72958217424142L}
+[03/03 17:10:18] (66957688640663) ½¹½¹ > ³ª ¾Æ¹ÙÅ¸ °¥²¨
+[03/03 17:10:19] (72425869567241) ³²»óÇõ > ¾îµð¼­Ã£À½
+[03/03 17:10:19] (64665003138061) ¿ì¿µ > »çÁø
+[03/03 17:10:19] (72425869567241) »ªÂÐ > 2
+[03/03 17:10:19] (67837229684900) ©¢vC½ºÅ¸Çü ±¤ÆÒ[C.oke]15 > À¯´ëÇöµµ
+[03/03 17:10:20] (66957688640663) ½¹½¹ > °³¸¹³× 
+[03/03 17:10:20] (64493356195307) À¯Á¦ÇõÇõÇõÇõ > ±×³É ¹®¹æ±¸¿¡¼­
+[03/03 17:10:20] (74565359769027) »Ç±Û > º¹»çÇØ¼­ÇØ¹Ù ¤»¤»
+[03/03 17:10:21] (72425869567241) »ªÂÐ > 1
+[03/03 17:10:22] (66968247565492) Ãß¿ìÃµ > ³­ÀßÇÏ´ÂÃ´ÀÌ¾Æ´Ï¶ó
+[03/03 17:10:22] (66957688640663) ÃÖÁö¿ì°°Àº°Å > ??????
+[03/03 17:10:22] (72958217424142) ¹Ú½ÂÇö > ¼º¹ÎÐ¤¸
+[03/03 17:10:23] (64493356195307) À¯Á¦ÇõÇõÇõÇõ > ÇÏ³ª»ç
+[03/03 17:10:24] (74563417609699) ²ô¾Æ¾Æ¾Ó > ¤»¤»
+[03/03 17:10:24] (66968247565492) Ãß¿ìÃµ > ÀßÇÏ´Â°ÅÁö
+[03/03 17:10:25] (74215832137124) ±â»ÝE > ³ë·¡ ÃßÃµ
+[03/03 17:10:25] (64665003138061) ¿ì¿µ > ÀÌ°ÍÀº
+[03/03 17:10:25] (67837229684900) È«Á¤ÈÆ > ¾ÖµéÇÑÅ× ¸Â¾Æ¾ßµÇÇÏ´Ï±î
+[03/03 17:10:25] (63304941660339) À±¹®È£ > ´Ù½Ã
+[03/03 17:10:26] (66957688640663) ½¹½¹ > ³»°¡ Ä³½Ã5Ãµ¿øÁÖ°í»ê
+[03/03 17:10:27] (64493356195307) À¯Á¦ÇõÇõÇõÇõ > 5Ãµ¿øÀÚ¸®
+[03/03 17:10:27] (66968247565492) Ãß¿ìÃµ > ÇÏÇÏÇÏÇÏ
+[03/03 17:10:27] (67837229684900) ©¢vC½ºÅ¸Çü ±¤ÆÒ[C.oke]15 > ±×´ã´©±¸´õ¶ó¤»
+[03/03 17:10:28] (74565359769027) ÀºÁ¤ > ³»°¡ÇüÁØÀÌ¿Àºü¸¦ÁÁ¾ÆÇÒÈ®·ü
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504601274945536L, u'userId': 51736242L, u'chatId': 74565359769027L}
+[03/03 17:10:28] (66957688640663) ½¹½¹ > ÀÌ Çì¾î¸¦ °¥ÀÚ
+[03/03 17:10:28] (71546240267481) ÀÌÀç¼® > ´º½º
+AHOTHER: MSG {u'status': 0, u'chatLog': {u'msgId': 834229588, u'sendAt': 1393834230, u'logId': 611504609285902336L, u'authorId': 32079132L, u'message': u'\uc790\uc18d', u'type': 1, u'chatId': 74563417609699L}, u'logId': 611504609285902336L, u'chatId': 74563417609699L, u'errMsg': None, u'authorNickname': u'\ub044\uc544\uc544\uc559'}
+[03/03 17:10:29] (74215832137124) À¯¸®;) > ³ª ³ë·¡ÃßÃµÁ»
+[03/03 17:10:30] (74563417609699) ²ô¾Æ¾Æ¾Ó > ¤¡
+[03/03 17:10:31] (29370598757758) elisha > ¹«Á¾¾Æ ³¡³ª°Ú´Ù
+[03/03 17:10:31] (72958217424142) ¹Ú½ÂÇö > ¤¢¤¸
+[03/03 17:10:32] (63304941660339) À±¹®È£ > ½Ç¹ö4¹®ÅÎÀÌ´Ù
+[03/03 17:10:32] (72425869567241) »ªÂÐ > ¾Æ
+[03/03 17:10:32] (74565359769027) ÀºÁ¤ > ¤Ñ¤Ñ
+[03/03 17:10:33] (72958217424142) ¹Ú½ÂÇö > ¤¢¤¸
+[03/03 17:10:33] (66957688640663) ÃÖÁö¿ì°°Àº°Å > ???????????
+[03/03 17:10:34] (64493356195307) À¯Á¦ÇõÇõÇõÇõ > ºò¹ð½Ã°è ÇÑ¶§ À¯Çà ÇÏ´ø°Å
+[03/03 17:10:34] (72958217424142) ±èÀÌÃµ > È£¿¬Á×À»È®·ü
+AHOTHER: MSG {u'status': 0, u'chatLog': {u'msgId': 834234343, u'sendAt': 1393834235, u'logId': 611504657067644929L, u'authorId': 16595596L, u'message': u'\ube68\ub9ac\uc628\ub098', u'type': 1, u'chatId': 29370598757758L}, u'logId': 611504657067644929L, u'chatId': 29370598757758L, u'errMsg': None, u'authorNickname': u'elisha'}
+AHOTHER: MSG {u'status': 0, u'chatLog': {u'msgId': 834235927, u'sendAt': 1393834235, u'logId': 611504656857696256L, u'authorId': 12288166L, u'message': u'\uc774\ub984\ub3c4 \ub044\uc559\uc774\uace0 ', u'type': 1, u'chatId': 74563417609699L}, u'logId': 611504656857696256L, u'chatId': 74563417609699L, u'errMsg': None, u'authorNickname': u'\uc591\uc131\ubbfc'}
+[03/03 17:10:35] (74565359769027) »Ç±Û > ?
+[03/03 17:10:35] (72958217424142) ¹Ú½ÂÇö > ¤¢¤¸
+[03/03 17:10:36] (71546240267481) ¼Û¼®¿ø > ¤µ¤²
+[03/03 17:10:37] (64493356195307) ±è½Â¿ø > ±×°Ç³»°¡
+[03/03 17:10:37] (74565359769027) »Ç±Û > ³Ê³ªÁÁ¾ÆÇÔ?
+[03/03 17:10:37] (64493356195307) À¯Á¦ÇõÇõÇõÇõ > ¤»¤»¤»¤»¤»¤»
+[03/03 17:10:38] (74215832137124) ±â»ÝE > Å°¿öµå
+[03/03 17:10:39] (74565359769027) »Ç±Û > ¤»¤»¤»¤»¤»¤»
+[03/03 17:10:39] (72958217424142) ¹Ú½ÂÇö > ¤¢¤§
+[03/03 17:10:39] (67837229684900) È«Á¤ÈÆ > ½ÜÀÌ ´Ï°¡¸ÕÀú¸ÂÀ»·¡?Áö¶öÇÔ
+[03/03 17:10:40] (69180984599555) ÁøÇô±â > ¶æ! ÃÖ¿ëÈ£´Â ºÎ»ç°üÀÌ µÉ±î¿ä
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504636263720960L, u'userId': 78924272L, u'chatId': 72425869567241L}
+AHOTHER: MSG {u'status': 0, u'chatLog': {u'msgId': 834239085, u'sendAt': 1393834241, u'logId': 611504704287537152L, u'authorId': 92458490L, u'message': u'\ub098\uac00', u'type': 1, u'chatId': 72958217424142L}, u'logId': 611504704287537152L, u'chatId': 72958217424142L, u'errMsg': None, u'authorNickname': u'\ubc15\uc2b9\ud604'}
+[03/03 17:10:40] (71546254938324) ÀÌÀç¼® > ³¯¾¾
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504697567657984L, u'userId': 115486210L, u'chatId': 67837229684900L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504704287537152L, u'userId': 43117376L, u'chatId': 72958217424142L}
+AHOTHER: MSG {u'status': 0, u'chatLog': {u'msgId': 834241746, u'sendAt': 1393834242, u'logId': 611504713833240576L, u'authorId': 126627580L, u'message': u'\uc5f0\uc608\uc778', u'type': 1, u'chatId': 73250243771522L}, u'logId': 611504713833240576L, u'chatId': 73250243771522L, u'errMsg': None, u'authorNickname': u'\uc7ac\ud658'}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504706963490816L, u'userId': 121581599L, u'chatId': 71546254938324L}
+AHOTHER: MSG {u'status': 0, u'chatLog': {u'msgId': 695001010, u'sendAt': 1393834242, u'logId': 611504714177714176L, u'authorId': 28853532L, u'message': u'\ub3c4\uc7a5\uc918', u'type': 1, u'chatId': 66957688640663L}, u'logId': 611504714177714176L, u'chatId': 66957688640663L, u'errMsg': None, u'authorNickname': u'\uc29d\uc29d'}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504656857696256L, u'userId': 32079132L, u'chatId': 74563417609699L}
+[03/03 17:10:41] (72958217424142) ¹Ú½ÂÇö > ³ª°¡
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504714177714176L, u'userId': 54786664L, u'chatId': 66957688640663L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504715192727552L, u'userId': 131966207L, u'chatId': 72958217424142L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611473189117214720L, u'userId': 123647647L, u'chatId': 40817358627331L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504715192727552L, u'userId': 43117376L, u'chatId': 72958217424142L}
+[03/03 17:10:42] (67837229684900) È«Á¤ÈÆ > ½Ã¹ß·Ã
+[03/03 17:10:43] (74565359769027) ÀºÁ¤ > ÇüÁØÀÌ¿Àºü°¡°¡ÀºÁ¤ÀÌÁÁ¾ÆÇÒÈ®·ü
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504727489941504L, u'userId': 35616803L, u'chatId': 74565359769027L}
+[03/03 17:10:43] (29370598757758) ? > 76ÆÛÀÇ È®·ü ¿Í
+[03/03 17:10:44] (74563417609699) ²ô¾Æ¾Æ¾Ó > À½?
+[03/03 17:10:44] (67837229684900) ³ª¸Å > ¾ÆÁøÂ¥½Ã·· Â¯½Ã·ë
+[03/03 17:10:44] (67837229684900) ÀÌÁö¿¬ > ¤»¤»¤»¤¡¤»À¯´ëÇöÀÌ ¿Ö ÀÓ½Ã¹ÝÀåÀÏ±î
+[03/03 17:10:44] (66957688640663) ½¹½¹ > °¡Áö°í½ÍÀ¸¸éÁÙ²²
+[03/03 17:10:44] (74563417609699) ²ô¾Æ¾Æ¾Ó > ¤»¤»
+[03/03 17:10:45] (64493356195307) ±è½Â¿ø > ÃÊµîÇÐ±³6ÇÐ³â¶§
+[03/03 17:10:47] (40817358627331) ±è¼º¿í > ¿À´Ã
+[03/03 17:10:47] (73250243771522) ÀçÈ¯ > µÇ¾ß
+[03/03 17:10:48] (74563417609699) ¾ç¼º¹Î > Å°¸îÀÌ¾ß ²ô¾Ó ¾Æ
+[03/03 17:10:48] (64493356195307) ±è½Â¿ø > ÃÊ·Ï»öÀ¸·Î
+[03/03 17:10:48] (71546254938324) ¼Û¼®¿ø > µðÁ®
+[03/03 17:10:48] (66957688640663) ÃÖÁö¿ì°°Àº°Å > ¹«½¼¤¤Çì¾î±æ·¡
+[03/03 17:10:49] (29370598757758) ? > ³ª ÀÌÁ¦ ¹ý¿øÀÎµ¥
+[03/03 17:10:49] (74215832137124) À¯¸®;) > ¸ÔÀ»°ÅÃßÃµÁ»
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504779340406785L, u'userId': 4868189L, u'chatId': 29370598757758L}
+[03/03 17:10:50] (73250243771522) ÀçÈ¯ > Çý¸®µµ
+[03/03 17:10:50] (74565359769027) »Ç±Û > ¤»¤»¤»¤»
+[03/03 17:10:50] (67837229684900) ÀÌÁö¿¬ > ³Ê³×´ãÀÓ´©±¸
+[03/03 17:10:50] (71546240267481) ÀÌÀç¼® > ´º½º
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504785975281664L, u'userId': 35616803L, u'chatId': 74565359769027L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504773283813376L, u'userId': 28853532L, u'chatId': 66957688640663L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504785975281664L, u'userId': 64259958L, u'chatId': 74565359769027L}
+AHOTHER: MSG {u'status': 0, u'chatLog': {u'msgId': 834250219, u'sendAt': 1393834251, u'logId': 611504787838869504L, u'authorId': 62564026L, u'message': u'\ub178\ub798 \ucd94\ucc9c\uc880', u'type': 1, u'chatId': 74215832137124L}, u'logId': 611504787838869504L, u'chatId': 74215832137124L, u'errMsg': None, u'authorNickname': u'\uae30\uc068E'}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504786562461696L, u'userId': 115486210L, u'chatId': 67837229684900L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504786562461696L, u'userId': 51484044L, u'chatId': 67837229684900L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611484005413652480L, u'userId': 50307978L, u'chatId': 42730174106658L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504787838869504L, u'userId': 106524735L, u'chatId': 74215832137124L}
+AHOTHER: MSG {u'status': 0, u'chatLog': {u'msgId': 834250931, u'sendAt': 1393834251, u'logId': 611504791192997888L, u'authorId': 103927345L, u'message': u'\u314b', u'type': 1, u'chatId': 67837229684900L}, u'logId': 611504791192997888L, u'chatId': 67837229684900L, u'errMsg': None, u'authorNickname': u'\u0110vC\uc2a4\ud0c0\ud615 \uad11\ud32c[C.oke]15'}
+[03/03 17:10:51] (64493356195307) ±è½Â¿ø > ÇÏ³ªÀÕ¾ùÀ½
+[03/03 17:10:51] (74644342545854) ±èµ¿¿ë > ...
+[03/03 17:10:51] (67837229684900) È«Á¤ÈÆ > ¹ÌÁ¤½ÜÀÌ±×¸³´Ù
+[03/03 17:10:51] (29370598757758) ? > ¤¸‰ç´Ù
+[03/03 17:10:52] (73250243771522) ÀçÈ¯ > ¤¸¤¿ÁÖº¿ÅÙµ¥
+[03/03 17:10:52] (74563417609699) ²ô¾Æ¾Æ¾Ó > ³ª´Â
+[03/03 17:10:52] (64665003138061) °æÈ£ > ¿À??
+[03/03 17:10:52] (74565359769027) ÀºÁ¤ > ÇüÁØÀÌ¿Àºü°¡ÀºÁ¤ÀÌÁÁ¾ÆÇÒÈ®·ü
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504805193453569L, u'userId': 103992092L, u'chatId': 74563417609699L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504808381288448L, u'userId': 51736242L, u'chatId': 74565359769027L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504808381288448L, u'userId': 35616803L, u'chatId': 74565359769027L}
+AHOTHER: MSG {u'status': 0, u'chatLog': {u'msgId': 834252834, u'sendAt': 1393834254, u'logId': 611504810377660417L, u'authorId': 43117376L, u'message': u'\ub098\uac00\uc9c0\ub9c8', u'type': 1, u'chatId': 72958217424142L}, u'logId': 611504810377660417L, u'chatId': 72958217424142L, u'errMsg': None, u'authorNickname': u'\uae40\uc774\ucc9c'}
+[03/03 17:10:53] (72958217424142) ±èÈ£¿¬ > ³ª°¡
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504810637852672L, u'userId': 51736242L, u'chatId': 74565359769027L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504810377660417L, u'userId': 131966207L, u'chatId': 72958217424142L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504810637852672L, u'userId': 64259958L, u'chatId': 74565359769027L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504784792406016L, u'userId': 43117376L, u'chatId': 72958217424142L}
+AHOTHER: MSG {u'status': 0, u'chatLog': {u'msgId': 834253429, u'sendAt': 1393834254, u'logId': 611504811703144448L, u'authorId': 103927345L, u'message': u'\uc544\ubb34\ub3c4', u'type': 1, u'chatId': 67837229684900L}, u'logId': 611504811703144448L, u'chatId': 67837229684900L, u'errMsg': None, u'authorNickname': u'\u0110vC\uc2a4\ud0c0\ud615 \uad11\ud32c[C.oke]15'}
+AHOTHER: MSG {u'status': 0, u'chatLog': {u'msgId': 834249588, u'sendAt': 1393834254, u'logId': 611504811812712448L, u'authorId': 46288791L, u'message': u'\ubbf8\uce5c\ub178\ub9c8', u'type': 1, u'chatId': 74644342545854L}, u'logId': 611504811812712448L, u'chatId': 74644342545854L, u'errMsg': None, u'authorNickname': u'\uae40\ub3d9\uc6a9'}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504810637852672L, u'userId': 35616803L, u'chatId': 74565359769027L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504810730153984L, u'userId': 131966207L, u'chatId': 72958217424142L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504810730153984L, u'userId': 43117376L, u'chatId': 72958217424142L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504773283813376L, u'userId': 54786664L, u'chatId': 66957688640663L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504811703144448L, u'userId': 109402911L, u'chatId': 67837229684900L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504810377660417L, u'userId': 92458490L, u'chatId': 72958217424142L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504813288652801L, u'userId': 131966207L, u'chatId': 72958217424142L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504797761191936L, u'userId': 103927345L, u'chatId': 67837229684900L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504811703144448L, u'userId': 115486210L, u'chatId': 67837229684900L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504810730153984L, u'userId': 92458490L, u'chatId': 72958217424142L}
+[03/03 17:10:53] (66957688640663) ½¹½¹ > ¾Óµå·¹ º¥´õ½º
+[03/03 17:10:54] (74644342545854) ±èµ¿¿ë > ¤»¤»¤»¤»¤»
+[03/03 17:10:55] (71546254938324) ¼Û¼®¿ø > Á×¾î¹ö·Á
+[03/03 17:10:55] (74563417609699) ²ô¾Æ¾Æ¾Ó > 158?9?
+[03/03 17:10:56] (74565359769027) ÀºÁ¤ > ¾ÈÁ¶¾ÆÇÔ¤Ñ¤Ñ
+[03/03 17:10:56] (66957688640663) ÃÖÁö¿ì°°Àº°Å > ¾ÆÇÏ
+[03/03 17:10:56] (67837229684900) ©¢vC½ºÅ¸Çü ±¤ÆÒ[C.oke]15 > Áö¿øÀÚ°¡
+[03/03 17:10:56] (64493356195307) ±è½Â¿ø > ±Ùµ¥±×°Å
+[03/03 17:10:57] (66957688640663) ÃÖÁö¿ì°°Àº°Å > ..
+[03/03 17:10:57] (74565359769027) »Ç±Û > ¤»¤»¤»¤»¤»
+[03/03 17:10:57] (67837229684900) È«Á¤ÈÆ > ¿ì¸®½Åµ¿½Ä
+[03/03 17:10:57] (71546254938324) ÀÌÀç¼® > ´º½º
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504844997443584L, u'userId': 51484044L, u'chatId': 67837229684900L}
+[03/03 17:10:58] (67837229684900) ÀÌÁö¿¬ > ¾Æ±× ½Åµ¿½ÄÀÎ°¡
+[03/03 17:10:58] (72958217424142) ±èÈ£¿¬ > ³ª°¡
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504854677958656L, u'userId': 103927345L, u'chatId': 67837229684900L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504854677958656L, u'userId': 115486210L, u'chatId': 67837229684900L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504833882540033L, u'userId': 92458490L, u'chatId': 72958217424142L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611500457990930432L, u'userId': 134797736L, u'chatId': 53342806546578L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504856792000512L, u'userId': 131966207L, u'chatId': 72958217424142L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504859149172736L, u'userId': 131966207L, u'chatId': 72958217424142L}
+[03/03 17:10:59] (74215832137124) ±â»ÝE > Çæ¤»¤»¤»
+[03/03 17:10:59] (67837229684900) ©¢vC½ºÅ¸Çü ±¤ÆÒ[C.oke]15 > ¾ø¾î¼­
+[03/03 17:10:59] (74215832137124) À¯¸®;) > ¤»¤»¤»
+[03/03 17:10:59] (64493356195307) À¯Á¦ÇõÇõÇõÇõ > ¤»¤»¤»¤»¤»½Ã¹ß¾Öµé
+[03/03 17:10:59] (74565359769027) »Ç±Û > ÁÁ¾ÆÇØ ¤»¤»
+[03/03 17:11:00] (53342806546578) ÇÑÁø¿ì > À¯¹Î¿ì
+[03/03 17:11:00] (53342806546578) ÇÑÁø¿ì > ¹Î¿ì
+[03/03 17:11:01] (53342806546578) ÇÑÁø¿ì > ¹Î¿ì
+[03/03 17:11:01] (53342806546578) ÇÑÁø¿ì > ¹Î¿ì
+[03/03 17:11:02] (64493356195307) ±è½Â¿ø > ¾àµµÁ¾³ª»¡¸®´Þ°í
+[03/03 17:11:02] (67837229684900) ©¢vC½ºÅ¸Çü ±¤ÆÒ[C.oke]15 > °Â°¡
+[03/03 17:11:02] (67837229684900) ³ª¸Å > Â÷¶ó¸® ¹ÌÁ¤½Ü´ãÀÓÇÏ°í
+[03/03 17:11:02] (53342806546578) ÇÑÁø¿ì > ¹Î¿ì
+[03/03 17:11:02] (66957688640663) ½¹½¹ > ÆÄÆ¼½¦Çì¾îµµÀÕ³× 
+[03/03 17:11:03] (40817358627331) ±è¼º¿í > ÀÛ³â¿¡Á¹¾÷ÇÏ½Å 60¼¼¼±¹è´Ô¿À½É
+[03/03 17:11:03] (53342806546578) ÇÑÁø¿ì > ¹Î¿ì
+[03/03 17:11:03] (64493356195307) À¯Á¦ÇõÇõÇõÇõ > ±×°Å»ç°í Á¸³ª ÀÚ¶ûÇØ
+[03/03 17:11:03] (66957688640663) ½¹½¹ > °¥¾Æ¾ßÁö
+[03/03 17:11:03] (53342806546578) ÇÑÁø¿ì > ¹Î¿ì
+[03/03 17:11:04] (74565359769027) ÀºÁ¤ > ¾Æ´Ïþ¤»
+[03/03 17:11:04] (53342806546578) ÇÑÁø¿ì > ¤±´Ï¿ì
+[03/03 17:11:04] (72958217424142) ±èÈ£¿¬ > ³ª°¡
+AHOTHER: MSG {u'status': 0, u'chatLog': {u'msgId': 834264708, u'sendAt': 1393834265, u'logId': 611504910244038656L, u'authorId': 43117376L, u'message': u'\ub098\uac00\uc9c0\ub9c8', u'type': 1, u'chatId': 72958217424142L}, u'logId': 611504910244038656L, u'chatId': 72958217424142L, u'errMsg': None, u'authorNickname': u'\uae40\uc774\ucc9c'}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504910244038656L, u'userId': 131966207L, u'chatId': 72958217424142L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504910118381568L, u'userId': 43117376L, u'chatId': 72958217424142L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504911200485376L, u'userId': 131966207L, u'chatId': 72958217424142L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504911200485376L, u'userId': 43117376L, u'chatId': 72958217424142L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504896973434880L, u'userId': 35753439L, u'chatId': 64493356195307L}
+[03/03 17:11:05] (74565359769027) Ã¤¿¬ > ¤»¤»¤»
+[03/03 17:11:06] (74215832137124) ±â»ÝE > ³ë·¡ ÃßÃµ
+[03/03 17:11:06] (67837229684900) ÀÌÁö¿¬ > ¤¡¤»¤»¤»¤¢
+[03/03 17:11:06] (74565359769027) »Ç±Û > ¸¶À½¸¸¹Þ¾Æ ¤»¤»
+[03/03 17:11:06] (64493356195307) ±è½Â¿ø > ¾à°ª¸¸Á¾³ªµë
+[03/03 17:11:07] (72958217424142) ¹Ú½ÂÇö > ³Ê°¡
+[03/03 17:11:08] (74215832137124) ±â»ÝE > Á»
+[03/03 17:11:08] (74565359769027) »Ç±Û > ¤»¤»¤»¤»¤»
+[03/03 17:11:10] (74215832137124) À¯¸®;) > Å°¿öµå
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504938657652736L, u'userId': 106524735L, u'chatId': 74215832137124L}
+AHOTHER: MSG {u'status': 0, u'chatLog': {u'msgId': 834268617, u'sendAt': 1393834271, u'logId': 611504954980669440L, u'authorId': 125767542L, u'message': u'\u3131\u3145', u'type': 1, u'chatId': 53342806546578L}, u'logId': 611504954980669440L, u'chatId': 53342806546578L, u'errMsg': None, u'authorNickname': u'\u3164\u3164'}
+[03/03 17:11:10] (72958217424142) ±èÀÌÃµ > ³ª°¡Áö¹Ì
+[03/03 17:11:10] (74563417609699) ¹Ú°æ > ¹èÅÍ¸®Á»°¥°í¿Ã°Ô¿©
+[03/03 17:11:10] (72958217424142) ±èÈ£¿¬ > ³ª°¡
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504953010558976L, u'userId': 62564026L, u'chatId': 74215832137124L}
+AHOTHER: DELMEM {u'status': 0, u'chatLog': {u'msgId': 0, u'sendAt': 1393834271, u'logId': 611504960718401536L, u'authorId': 62181236L, u'message': u'{"feedType":2,"member":{"userId":62181236,"nickName":"\uc1a1\uc11d\uc6d0"}}', u'type': 0, u'chatId': 71546240267481L}}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504954838024192L, u'userId': 62564026L, u'chatId': 74215832137124L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504954980669440L, u'userId': 125767542L, u'chatId': 53342806546578L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611481441981306880L, u'userId': 12732751L, u'chatId': 22549127033329L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504961121091584L, u'userId': 131966207L, u'chatId': 72958217424142L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504955047739392L, u'userId': 62564026L, u'chatId': 74215832137124L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504959174961154L, u'userId': 92458490L, u'chatId': 72958217424142L}
+AHOTHER: MSG {u'status': 0, u'chatLog': {u'msgId': 696373169, u'sendAt': 1393834272, u'logId': 611504962228830210L, u'authorId': 134797736L, u'message': u'\ub098 \uc57c\uc790\ub54c \uc790\uace0\uc788\uc73c\uba74', u'type': 1, u'chatId': 53342806546578L}, u'logId': 611504962228830210L, u'chatId': 53342806546578L, u'errMsg': None, u'authorNickname': u'\ud55c\uc9c4\uc6b0'}
+[03/03 17:11:12] (74565359769027) ÀºÁ¤ > ¤»¤»¤»¤»¤»¤»¤»¤»¤»
+[03/03 17:11:14] (53342806546578) ÇÑÁø¿ì > ³¡³ª°¥¶§
+[03/03 17:11:14] (72958217424142) ±èÈ£¿¬ > ³ª°¡
+AHOTHER: MSG {u'status': 0, u'chatLog': {u'msgId': 834273925, u'sendAt': 1393834275, u'logId': 611504992192532480L, u'authorId': 51484044L, u'message': u'\ubbf8\ub974\uc324\uc774\ubbf8\uc220\uac00\ub974\uccd0\uc8fc\uc168\uc73c\uba74', u'type': 1, u'chatId': 67837229684900L}, u'logId': 611504992192532480L, u'chatId': 67837229684900L, u'errMsg': None, u'authorNickname': u'\ub098\ub9e4'}
+[03/03 17:11:14] (64493356195307) À¯Á¦ÇõÇõÇõÇõ > ÇÏ¾á»ö Á¸³ª ¸ÚÁö´Ù°í
+[03/03 17:11:15] (74563417609699) ¹Ú°æ > 16³² Âü°í
+[03/03 17:11:15] (53342806546578) ÇÑÁø¿ì > ±ú¿öÀú
+[03/03 17:11:16] (73689578228177) ÂÐ¿ÍÀÌ > Â÷¶ó¸®±×°Ô´õ³ªÀ½¤»¤»
+[03/03 17:11:16] (74215832137124) À¯¸®;) > ³ë·¡ÃßÃµÁ»
+[03/03 17:11:16] (40817358627331) ¹ÚÁ¤Àç > ¤»¤»¤»
+[03/03 17:11:17] (72958217424142) ±èÀÌÃµ > ³ª°¡Áö¸¶
+[03/03 17:11:17] (72958217424142) ¹Ú½ÂÇö > ³ª°¡´Â°Å°³»¡¶ó
+[03/03 17:11:17] (72958217424142) ±èÈ£¿¬ > ³ª°¡
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611505018977320960L, u'userId': 131966207L, u'chatId': 72958217424142L}
+AHOTHER: MSG {u'status': 0, u'chatLog': {u'msgId': 834278482, u'sendAt': 1393834279, u'logId': 611505020092813312L, u'authorId': 32079132L, u'message': u'\ub124\ub135', u'type': 1, u'chatId': 74563417609699L}, u'logId': 611505020092813312L, u'chatId': 74563417609699L, u'errMsg': None, u'authorNickname': u'\ub044\uc544\uc544\uc559'}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611505007132549120L, u'userId': 37937214L, u'chatId': 73689578228177L}
+[03/03 17:11:18] (64493356195307) À¯Á¦ÇõÇõÇõÇõ > ´ÙÇÏ¾á»ö »ç°í
+[03/03 17:11:20] (74565359769027) ÀºÁ¤ > ÇüÁØÀÌ¿Àºü
+[03/03 17:11:20] (63304941660339) À±¹®È£ > ½Â±ÞÀü¿È ¤·¤·..
+[03/03 17:11:20] (74399966014930) ¤º¤µ¤· > ±×·¡µµ ¿ì¸®¹ÝÀº ÀÓÈñ°­ÀÎ°¡ ÇÏ´Â ±× ¸®´õ½Ê ÁÁÀº¾ê°¡ ÀÖ±â¿¡
+[03/03 17:11:20] (66957688640663) ½¹½¹ > ÇÏ..±Ùµ¥ ¾Óº¥Çì¾î ÀÌ°Å
+[03/03 17:11:21] (72958217424142) ±èÈ£¿¬ > ³ª°¡
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611505029941258240L, u'userId': 92458490L, u'chatId': 72958217424142L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611505051164409856L, u'userId': 131966207L, u'chatId': 72958217424142L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611504992192532480L, u'userId': 51484044L, u'chatId': 67837229684900L}
+[03/03 17:11:23] (64493356195307) ±è½Â¿ø > ±×³É5~6¸¶³ÍÀ¸·Î
+[03/03 17:11:23] (67837229684900) ©¢vC½ºÅ¸Çü ±¤ÆÒ[C.oke]15 > ÀÌÇö½Ä¾Æ´Ô??
+[03/03 17:11:23] (67837229684900) ©¢vC½ºÅ¸Çü ±¤ÆÒ[C.oke]15 > ¤»¤»
+[03/03 17:11:23] (67837229684900) È«Á¤ÈÆ > ¹Ýµµ
+[03/03 17:11:24] (74565359769027) »Ç±Û > ¿õ
+[03/03 17:11:24] (40817358627331) ¹ÚÁ¤Àç > ³­ ¿À´Ã¸¸ °ø°­ 2¹ø ¤»¤»
+[03/03 17:11:24] (67837229684900) ³ª¸Å > ¾Æ ÃÖ¹Ì¸£½Ü ¾Æ±î°­´ç¿¡¼­
+[03/03 17:11:25] (66957688640663) ½¹½¹ > ³»°¡ Ä³½Ã·Î ÁÖ°í»ê°Å¶ó ¾Æ±õ±äÇÏ³×
+[03/03 17:11:26] (74215832137124) À¯¸®;) > ¤Ð¤ÐÀÌ°Ç ¾ÈµÇ³×
+[03/03 17:11:28] (74565359769027) »Ç±Û > ³ª¹ä¸Ô±¸ÀÕ¾û
+[03/03 17:11:28] (64493356195307) ±è½Â¿ø > ¿À·¡¾µ°ÅÇÏ³ª»ç´Â°Ô
+[03/03 17:11:29] (72958217424142) ±èÈ£¿¬ > ³ª°¡
+AHOTHER: MSG {u'status': 0, u'chatLog': {u'msgId': 834288567, u'sendAt': 1393834290, u'logId': 611505113667770368L, u'authorId': 61019380L, u'message': u'\uc5b4\ub290\uc815\ub3c4\ub294 \uc815\ub3c8\ub420\ub4ef', u'type': 1, u'chatId': 74399966014930L}, u'logId': 611505113667770368L, u'chatId': 74399966014930L, u'errMsg': None, u'authorNickname': u'\u314a\u3145\u3147'}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611505113634373632L, u'userId': 131966207L, u'chatId': 72958217424142L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611505111084263425L, u'userId': 92458490L, u'chatId': 72958217424142L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611505113667770368L, u'userId': 123453175L, u'chatId': 74399966014930L}
+AHOTHER: MSG {u'status': 0, u'chatLog': {u'msgId': 834289977, u'sendAt': 1393834290, u'logId': 611505115237042176L, u'authorId': 121581599L, u'message': u'\ub274\uc2a4', u'type': 1, u'chatId': 71545048244401L}, u'logId': 611505115237042176L, u'chatId': 71545048244401L, u'errMsg': None, u'authorNickname': u'\uc774\uc7ac\uc11d'}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611505113634373632L, u'userId': 92458490L, u'chatId': 72958217424142L}
+[03/03 17:11:29] (67837229684900) È«Á¤ÈÆ > Àü¹ÝÀÌ´õÁÁÀ½
+[03/03 17:11:30] (74565359769027) ÀºÁ¤ > ³»»ýÀÏ 3¿ù14ÀÏ
+[03/03 17:11:30] (64493356195307) ±è½Â¿ø > ´õÀÌµæÀÌ¾ß
+[03/03 17:11:31] (74644342545854) ¼ºÁØ > ¤¼¤»¤»¤»¤»¤»¤»Èû³»
+[03/03 17:11:31] (74399966014930) Á¶Àç¹ü > ¾Æ ±×·³ ¤¡¤½
+[03/03 17:11:32] (74215832137124) ±â»ÝE > ³²ÀÚ Ä£±¸ ÃßÃµ
+[03/03 17:11:33] (73689578228177) Á¤ÁØ¼ö > ¤»¤»
+[03/03 17:11:34] (72958217424142) ±èÈ£¿¬ > ³ª°¡
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611505160249868288L, u'userId': 131966207L, u'chatId': 72958217424142L}
+[03/03 17:11:35] (74399966014930) Á¶Àç¹ü > °³ ÂøÇÔ
+[03/03 17:11:36] (74215832137124) ±â»ÝE > Å°¿öµå
+[03/03 17:11:36] (67837229684900) È«Á¤ÈÆ > ³­¸ð¸£´Â¾êµé¸¸ÀÖ¾î
+[03/03 17:11:36] (74215832137124) À¯¸®;) > Å°¿öµå
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611505174686662656L, u'userId': 106524735L, u'chatId': 74215832137124L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611505177370869760L, u'userId': 109402911L, u'chatId': 67837229684900L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611505163060477952L, u'userId': 123453175L, u'chatId': 74399966014930L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611505174686662656L, u'userId': 62564026L, u'chatId': 74215832137124L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611505177766533120L, u'userId': 62564026L, u'chatId': 74215832137124L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611505177370869760L, u'userId': 115486210L, u'chatId': 67837229684900L}
+[03/03 17:11:37] (74565359769027) »Ç±Û > ¤·¤±..
+[03/03 17:11:38] (71546254938324) ÀÌÀç¼® > ³¯¾¾
+AHOTHER: MSG {u'status': 0, u'chatLog': {u'msgId': 834297879, u'sendAt': 1393834299, u'logId': 611505193091305472L, u'authorId': 51484044L, u'message': u'\uc790\uae30 \uc778\uc0ac\ud55c\uac8c \uc544\ub828\ud558\uc9c0 \uc54a\uc558\ub0d0\uba74\uc11c', u'type': 1, u'chatId': 67837229684900L}, u'logId': 611505193091305472L, u'chatId': 67837229684900L, u'errMsg': None, u'authorNickname': u'\ub098\ub9e4'}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611505193091305472L, u'userId': 109402911L, u'chatId': 67837229684900L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611505193091305472L, u'userId': 115486210L, u'chatId': 67837229684900L}
+AHOTHER: MSG {u'status': 0, u'chatLog': {u'msgId': 834299125, u'sendAt': 1393834300, u'logId': 611505196371185664L, u'authorId': 64259958L, u'message': u'\uae30\ub300\ud560\uaed8', u'type': 1, u'chatId': 74565359769027L}, u'logId': 611505196371185664L, u'chatId': 74565359769027L, u'errMsg': None, u'authorNickname': u'\uc740\uc815'}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611505196371185664L, u'userId': 51736242L, u'chatId': 74565359769027L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611505196371185664L, u'userId': 35616803L, u'chatId': 74565359769027L}
+[03/03 17:11:40] (73689578228177) ÂÐ¿ÍÀÌ > ÁØ¼ö¾ß
+[03/03 17:11:41] (67837229684900) ÀÌÁö¿¬ > ¤·¤·4¹Ý ÀÓ½ÃºÎÀå ÀÌÇö½Ä
+[03/03 17:11:41] (74565359769027) »Ç±Û > ³»»ýÀÏ3À¸¤Ã¤©21´×
+[03/03 17:11:42] (72541830050081) ¹«Áø´Ô > Á¿´ñ´Ù
+[03/03 17:11:42] (64493356195307) ±è½Â¿ø > 5Ã³³ÍÂ¥¸®½Ã°è¾à°ª¸¸ 2¸¶³Íµë
+[03/03 17:11:43] (74399966014930) Á¶Àç¹ü > ÁÁÀº ¾ÖÀÓ
+[03/03 17:11:43] (74565359769027) »Ç±Û > ¤»¤»¤»¤»¤»¤»
+[03/03 17:11:45] (73689578228177) ÂÐ¿ÍÀÌ > »çÁøÂï¾î¼­º¸³»Áà
+[03/03 17:11:45] (74565359769027) ÀºÁ¤ > À×¤§¤·
+[03/03 17:11:46] (72958217424142) ±èÀÌÃµ > ¹Î¼ºÁ×À»È®·ü
+AHOTHER: MSG {u'status': 0, u'chatLog': {u'msgId': 834307970, u'sendAt': 1393834307, u'logId': 611505259889696768L, u'authorId': 37937214L, u'message': u'2\uc9c0', u'type': 1, u'chatId': 73689578228177L}, u'logId': 611505259889696768L, u'chatId': 73689578228177L, u'errMsg': None, u'authorNickname': u'\ucad1\uc640\uc774'}
+AHOTHER: MSG {u'status': 0, u'chatLog': {u'msgId': 834306964, u'sendAt': 1393834307, u'logId': 611505259654805504L, u'authorId': 19472798L, u'message': u'\uace0\uce58\ub294\ub370\ub791', u'type': 1, u'chatId': 64493356195307L}, u'logId': 611505259654805504L, u'chatId': 64493356195307L, u'errMsg': None, u'authorNickname': u'\uae40\uc2b9\uc6d0'}
+[03/03 17:11:47] (74565359769027) ÀºÁ¤ > ÀÌÀÀ
+[03/03 17:11:47] (67837229684900) ³ª¸Å > ¿ô´Âµ¥ ½ÃÀô °³¿¹»µ
+[03/03 17:11:47] (73121985955163) °­¼®È£ > ¤»¤»¤»º´½Åµé
+[03/03 17:11:47] (74565359769027) »Ç±Û > ±â´ëÇÒ°Ô
+[03/03 17:11:48] (74215832137124) ±â»ÝE > ³²ÀÚÄ£±¸ ÃßÃµ
+[03/03 17:11:48] (72541830050081) ¹Ú»ó¼ö > ¿Ö
+[03/03 17:11:48] (74565359769027) ÀºÁ¤ > ÀÌÀÀ
+[03/03 17:11:48] (74565359769027) »Ç±Û > ¤»¤»¤»¤»¤»
+[03/03 17:11:49] (67837229684900) ÀÌÁö¿¬ > Á¦ÀÏÅ°Å©´Ù°í¤»¤»¤»
+[03/03 17:11:50] (67837229684900) ÀÌÁö¿¬ > ¾Æ
+[03/03 17:11:51] (74399966014930) Á¶Àç¹ü > ¤¡¤½¶ó°í ¿ÀÅ¸´Ù
+[03/03 17:11:54] (74215832137124) ±â»ÝE > Á»
+[03/03 17:11:54] (71545048244401) ÀÌÀç¼® > ³¯¾¾
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611505325590585344L, u'userId': 106524735L, u'chatId': 74215832137124L}
+AHOTHER: MSG {u'status': 0, u'chatLog': {u'msgId': 834314508, u'sendAt': 1393834315, u'logId': 611505329632505856L, u'authorId': 59307057L, u'message': u'\uc624\u3154', u'type': 1, u'chatId': 73689578228177L}, u'logId': 611505329632505856L, u'chatId': 73689578228177L, u'errMsg': None, u'authorNickname': u'\uc815\uc900\uc218'}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611505329632505856L, u'userId': 37937214L, u'chatId': 73689578228177L}
+AHOTHER: MSG {u'status': 0, u'chatLog': {u'msgId': 834315884, u'sendAt': 1393834316, u'logId': 611505334154014720L, u'authorId': 109402911L, u'message': u'\ubbf8\ub974\uc324\u3160\u3160\u3160', u'type': 1, u'chatId': 67837229684900L}, u'logId': 611505334154014720L, u'chatId': 67837229684900L, u'errMsg': None, u'authorNickname': u'\uc774\uc9c0\uc5f0'}
+[03/03 17:11:56] (74565359769027) »Ç±Û > ³ª¹ä¸Ô±¸¿Ã°Ô
+[03/03 17:11:56] (71546254938324) ¼Û¼®¿ø > Á×¾î
+[03/03 17:11:58] (74215832137124) À¯¸®;) > Å°¿öµå
+AHOTHER: MSG {u'status': 0, u'chatLog': {u'msgId': 834318318, u'sendAt': 1393834319, u'logId': 611505356794890240L, u'authorId': 51736242L, u'message': u'~~~~', u'type': 1, u'chatId': 74565359769027L}, u'logId': 611505356794890240L, u'chatId': 74565359769027L, u'errMsg': None, u'authorNickname': u'\ubf40\uae00'}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611505356794890240L, u'userId': 64259958L, u'chatId': 74565359769027L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611505355193980928L, u'userId': 62564026L, u'chatId': 74215832137124L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611505343230537728L, u'userId': 62181236L, u'chatId': 71546254938324L}
+[03/03 17:11:58] (73689578228177) Á¤ÁØ¼ö > ÁÙ»ý°¢¾ø´Ù³×
+[03/03 17:12:00] (74565359769027) ÀºÁ¤ > ¿õ
+[03/03 17:12:00] (72541830050081) ¹Ú»ó¼ö > µéÅ´/
+[03/03 17:12:00] (66957688640663) ½¹½¹ > »çÁø
+[03/03 17:12:01] (67837229684900) ©¢vC½ºÅ¸Çü ±¤ÆÒ[C.oke]15 > °ßÀÚ¤»
+[03/03 17:12:01] (72541830050081) ¹Ú»ó¼ö > ¤»¤»¤»¤»¤»
+[03/03 17:12:01] (74399966014930) ¤º¤µ¤· > Á¤·ÄÀÌ 10+ Áõ°¡ÇÕ´Ï´Ù.
+[03/03 17:12:02] (74135877856571) ½ÂÈ£ > ¼±Åå³à ³ÝÄ«¸¶È®½ÇÇÑ°Í°°¾û
+[03/03 17:12:03] (71546240267481) ÀÌÀç¼® > ´º½º
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611505387396438016L, u'userId': 61019380L, u'chatId': 74399966014930L}
+[03/03 17:12:03] (74565359769027) ÀºÁ¤ > ¸¶´Ï¸ÔÁö¸¶
+[03/03 17:12:03] (66957688640663) ½¹½¹ > ¾î¶²°Í°°À½
+[03/03 17:12:05] (67837229684900) ©¢vC½ºÅ¸Çü ±¤ÆÒ[C.oke]15 > °³¿ô°Ü
+[03/03 17:12:05] (66957688640663) ½¹½¹ > ±×³É±×·¸Áö?
+[03/03 17:12:05] (74565359769027) ÀºÁ¤ > »ìÂÇ
+[03/03 17:12:06] (29370598757758) ? > ºÎÇöÀÌ°¡ °­´Ü µÉ È®·ü
+[03/03 17:12:08] (74215832137124) ±â»ÝE > ¿©ÀÚÄ£±¸ ÃßÃµÁ»
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611505400793202688L, u'userId': 62181236L, u'chatId': 71546240267481L}
+[03/03 17:12:09] (74215832137124) À¯¸®;) > ³²ÀÚÄ£±¸ »ý±æ È®·ü
+AHOTHER: MSG {u'status': 0, u'chatLog': {u'msgId': 834327804, u'sendAt': 1393834330, u'logId': 611505450663933953L, u'authorId': 92458490L, u'message': u'\uc774\ucc9c\uc774\uc57c\ub3d9\ub04a\uc744\ud655\uc728', u'type': 1, u'chatId': 72958217424142L}, u'logId': 611505450663933953L, u'chatId': 72958217424142L, u'errMsg': None, u'authorNickname': u'\ubc15\uc2b9\ud604'}
+[03/03 17:12:09] (67837229684900) ³ª¸Å > Á¡¼öÈÄÇÏ±ä°³»Ô¾Æ¾Æ¾Æ¾Æ
+[03/03 17:12:10] (71546254938324) ÀÌÀç¼® > ´º½º
+AHOTHER: MSG {u'status': 0, u'chatLog': {u'msgId': 834330825, u'sendAt': 1393834331, u'logId': 611505459957936128L, u'authorId': 37275508L, u'message': u'\u3155', u'type': 1, u'chatId': 48384689388583L}, u'logId': 611505459957936128L, u'chatId': 48384689388583L, u'errMsg': None, u'authorNickname': u'\uae40\uac15\ubbfc'}
+[03/03 17:12:11] (29370598757758) ? > ¤µ¤²
+[03/03 17:12:11] (67837229684900) ÀÌÁö¿¬ > ¤»¤»°ßÀÚ°ß³à
+[03/03 17:12:11] (67837229684900) È«Á¤ÈÆ > ÇõÁÖ
+[03/03 17:12:11] (67837229684900) ©¢vC½ºÅ¸Çü ±¤ÆÒ[C.oke]15 > °³»õ³¢´Â¿å¤¤¤¤
+[03/03 17:12:11] (66957688640663) ÃÖÁö¿ì°°Àº°Å > ¤²º°¤©·Î´Ù
+[03/03 17:12:11] (74219665272242) ÀÌ°­¹Î > °¶2ÀÎµ¥
+[03/03 17:12:11] (74399966014930) Á¶Àç¹ü > ¤» ¿¡¸ÅÇÏ´Ù ¼ö¸® ³¡³ª°¨
+[03/03 17:12:12] (72969685619002) Àç¿¬ > ¸Å¿ö
+[03/03 17:12:12] (67837229684900) È«Á¤ÈÆ > ¿ì¸®
+[03/03 17:12:12] (66957688640663) ÃÖÁö¿ì°°Àº°Å > ..
+[03/03 17:12:13] (74565359769027) »Ç±Û > ¸¶´Ï¾È¸Ô¾î
+[03/03 17:12:13] (66957688640663) ÀÌÁø¾Æ > ¤»¤»¤»¤»¤»¤»¤»¤»±â¿ä¿À
+[03/03 17:12:13] (74565359769027) »Ç±Û > ¤»¤»
+[03/03 17:12:13] (74219665272242) ÀÌ°­¹Î > Àßµ¹¾Æ°¨
+[03/03 17:12:14] (71546240267481) ¼Û¼®¿ø > ±×¸¸ÇØ
+[03/03 17:12:15] (71546240267481) ¼Û¼®¿ø > ¤µ¤²
+[03/03 17:12:16] (67807514778851) vilmire > 90³Ñ¾î¼­µµ ¶±Ä¡³ë
+[03/03 17:12:16] (74135877856571) ¤·¤µ¤· > ¤»¤»¤»¤»
+[03/03 17:12:18] (72541830050081) ¹«Áø´Ô > ¤·¤·
+[03/03 17:12:18] (66968247565492) ÁÖÇÑ > Áö¶ö¸¶
+[03/03 17:12:18] (74135877856571) ¤·¤µ¤· > ¤»¤¼¤¼¤¼¤¼
+[03/03 17:12:19] (67837229684900) ©¢vC½ºÅ¸Çü ±¤ÆÒ[C.oke]15 > °ßÀÚ°¡¿åÀÓ¤»
+[03/03 17:12:19] (74135877856571) Áø°ï > ³ÝÄ«¸¶?
+[03/03 17:12:19] (72541830050081) ¹«Áø´Ô > ¤»¤»¤»¤»¤»¤»¤»
+[03/03 17:12:19] (74565359769027) ÀºÁ¤ > À×¤»¤»
+[03/03 17:12:19] (66957688640663) ½¹½¹ > Çì¾î
+[03/03 17:12:20] (67837229684900) ³ª¸Å > »Ä¼Ó±îÁö Á¤Á÷ÇÏ·¡¸Å
+[03/03 17:12:20] (66957688640663) ½¹½¹ > °¥±î
+[03/03 17:12:20] (74215832137124) À¯¸®;) > ¤»¤»¤»¤¼¹¹þ¤»
+[03/03 17:12:20] (74215832137124) ±â»ÝE > Çæ¤©¤©
+[03/03 17:12:20] (72958217424142) ±èÈ£¿¬ > ¾ßµ¿
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611505544952684544L, u'userId': 106524735L, u'chatId': 74215832137124L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611505534507636736L, u'userId': 133381798L, u'chatId': 72541830050081L}
+[03/03 17:12:21] (67807514778851) vilmire > Å©¶ó½º
+[03/03 17:12:21] (67837229684900) ³ª¸Å > ¤»¤»¤»¤»
+[03/03 17:12:24] (74219665272242) ÁöÈÆ.. > ºñ½Ò°Í °°¾Æ¼­
+[03/03 17:12:24] (72958217424142) ±èÈ£¿¬ > ¸Á°¡
+[03/03 17:12:25] (72541830050081) ¹Ú»ó¼ö > ¤»¤»¤»¤»¤»
+[03/03 17:12:25] (74399966014930) ¤º¤µ¤· > µÎµÒÄ©Ãã Ãß¼À
+[03/03 17:12:25] (74135877856571) Áø°ï > ³ÝÄ«¸¶°¡¹¹ÀÓ?
+[03/03 17:12:26] (66968247565492) Ãß¿ìÃµ > ÇÏÇÏÇÏ
+[03/03 17:12:27] (67837229684900) È«Á¤ÈÆ > ¹Ì¸£½Ü ÀÎ»çÇÒ¶§
+[03/03 17:12:27] (74219665272242) ÀÌ°­¹Î > ¸ðµç°ÔÀÓ ´ÙÀßµÇ´Âµí
+[03/03 17:12:27] (67837229684900) ©¢vC½ºÅ¸Çü ±¤ÆÒ[C.oke]15 > °³°ß¤¸³ðÀÚ¤»
+[03/03 17:12:27] (66957688640663) ½¹½¹ > ¾Æ±õÁö¸¸
+[03/03 17:12:28] (69268685482404) ¿ìÁî¸¶Å° ³ª·çÅä > »óÀ±
+[03/03 17:12:31] (69268685482404) ¿ìÁî¸¶Å° ³ª·çÅä > ¿ì¿­
+[03/03 17:12:31] (71546240267481) ÀÌÀç¼® > ³¯¾¾
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611505635649505281L, u'userId': 62181236L, u'chatId': 71546240267481L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611505604132900864L, u'userId': 103927345L, u'chatId': 67837229684900L}
+AHOTHER: MSG {u'status': 0, u'chatLog': {u'msgId': 695852767, u'sendAt': 1393834352, u'logId': 611505639608510464L, u'authorId': 132069252L, u'message': u'\uc57c', u'type': 1, u'chatId': 66259510770871L}, u'logId': 611505639608510464L, u'chatId': 66259510770871L, u'errMsg': None, u'authorNickname': u'\uc2b9\ud601'}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611505583194937344L, u'userId': 61019380L, u'chatId': 74399966014930L}
+AHOTHER: MSG {u'status': 0, u'chatLog': {u'msgId': 695001023, u'sendAt': 1393834353, u'logId': 611505641982924800L, u'authorId': 28853532L, u'message': u'\uc7a1\ucd08\uac00 \ubcd1\uc2e0\uac19\ub2e4\ub2cc\uae4c', u'type': 1, u'chatId': 66957688640663L}, u'logId': 611505641982924800L, u'chatId': 66957688640663L, u'errMsg': None, u'authorNickname': u'\uc29d\uc29d'}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611505641982924800L, u'userId': 130296242L, u'chatId': 66957688640663L}
+AHOTHER: MSG {u'status': 0, u'chatLog': {u'msgId': 834352650, u'sendAt': 1393834353, u'logId': 611505642334695424L, u'authorId': 109402911L, u'message': u'\u314b\u314b\u314b', u'type': 1, u'chatId': 67837229684900L}, u'logId': 611505642334695424L, u'chatId': 67837229684900L, u'errMsg': None, u'authorNickname': u'\uc774\uc9c0\uc5f0'}
+[03/03 17:12:32] (67837229684900) ©¢vC½ºÅ¸Çü ±¤ÆÒ[C.oke]15 > ÀÀ
+[03/03 17:12:33] (66957688640663) ½¹½¹ > °¥¾Æ¾ßÁö
+[03/03 17:12:33] (72958217424142) ±èÈ£¿¬ > °¡ÀºÁ×À»È®·ü
+[03/03 17:12:34] (66259510770871) ½ÂÇõ > ±âºÐÁ¶Å¸
+[03/03 17:12:35] (67837229684900) ©¢vC½ºÅ¸Çü ±¤ÆÒ[C.oke]15 > ¿Ö
+[03/03 17:12:35] (74399966014930) ¤º¤µ¤· > µÎµÒÄ©! µÎµÒÄ©?
+[03/03 17:12:35] (74215832137124) À¯¸®;) > 
+¿ô¾ù´Ù.¤»¤»
+[03/03 17:12:35] (66259510770871) ½ÂÇõ > Áý¿¡ ¿È
+[03/03 17:12:36] (72958217424142) ±èÀÌÃµ > ½ÂÇö¾ßµ¿²÷À»È®·ü
+AHOTHER: MSG {u'status': 0, u'chatLog': {u'msgId': 834355428, u'sendAt': 1393834357, u'logId': 611505676058238976L, u'authorId': 62564026L, u'message': u'\ub0b4\uac00 \ub110 \uc88b\uc544\ud560 \ud655\ub960', u'type': 1, u'chatId': 74215832137124L}, u'logId': 611505676058238976L, u'chatId': 74215832137124L, u'errMsg': None, u'authorNickname': u'\uae30\uc068E'}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611505669011806208L, u'userId': 62564026L, u'chatId': 74215832137124L}
+[03/03 17:12:37] (74219665272242) ÁöÈÆ.. > ½Ñ°Å Ã£À¸·Á°í¿ä ¤»
+[03/03 17:12:37] (66957688640663) ÃÖÁö¿ì°°Àº°Å > Çä
+[03/03 17:12:37] (66259510770871) ½ÂÇõ > ÁÖ¿µ¤·
+[03/03 17:12:40] (69268685482404) ÀÌ»óÀ± > ½Â¿ì
+[03/03 17:12:40] (67837229684900) È«Á¤ÈÆ > Á¹¶ó¹Ú¼öÄ¡°í±×·§£Ÿ#¤»
+[03/03 17:12:42] (71546240267481) ¼Û¼®¿ø > µðÁ®ÁøÂ¥
+[03/03 17:12:42] (69268685482404) ÀÌ»óÀ± > ¸¶Å©ÇÏÀÚ
+[03/03 17:12:42] (72958217424142) ¹Ú½ÂÇö > ¤»
+[03/03 17:12:43] (71546240267481) ¼Û¼®¿ø > ¤µ¤²
+[03/03 17:12:43] (66957688640663) ½¹½¹ > Çæ
+[03/03 17:12:43] (74219665272242) ÀÌ°­¹Î > °¶2 ÀÎÅÍ³Ý¿¡¼­»ñ´Âµ¥ 12¸¸¿øÁ¤µµ
+[03/03 17:12:44] (69268685482404) ÀÌ»óÀ± > ¤¸¿À´Ã
+[03/03 17:12:44] (69268685482404) ¿ìÁî¸¶Å° ³ª·çÅä > ¿À´Ã ¹ä ¾ðÀç ¸ÔÀ» °ÅÀÓ?
+[03/03 17:12:45] (74215832137124) À¯¸®;) > Å°¿öµå
+AHOTHER: MSG {u'status': 0, u'chatLog': {u'msgId': 834363415, u'sendAt': 1393834366, u'logId': 611505753719971840L, u'authorId': 62564026L, u'message': u'\ud0a4\uc6cc\ub4dc', u'type': 1, u'chatId': 74215832137124L}, u'logId': 611505753719971840L, u'chatId': 74215832137124L, u'errMsg': None, u'authorNickname': u'\uae30\uc068E'}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611505731380312064L, u'userId': 92458490L, u'chatId': 72958217424142L}
+AHOTHER: MSG {u'status': 0, u'chatLog': {u'msgId': 834365402, u'sendAt': 1393834366, u'logId': 611505754783997952L, u'authorId': 134687933L, u'message': u'\uc9d1\uc5d0\uc11c', u'type': 1, u'chatId': 69268685482404L}, u'logId': 611505754783997952L, u'chatId': 69268685482404L, u'errMsg': None, u'authorNickname': u'\uc774\uc0c1\uc724'}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611505754783997952L, u'userId': 131868360L, u'chatId': 69268685482404L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611505753099212800L, u'userId': 62564026L, u'chatId': 74215832137124L}
+[03/03 17:12:47] (67837229684900) ©¢vC½ºÅ¸Çü ±¤ÆÒ[C.oke]15 > ¾Æ
+[03/03 17:12:47] (66259510770871) ½ÂÇõ > ¿¹»ó¿Ü·Î ÀÏÂï ³¡³ª¼­ ¸ÕÀú¿È 
+[03/03 17:12:47] (66957688640663) ½¹½¹ > ºÒ¸í 25°³³ª ÁÖ³×
+[03/03 17:12:47] (72958217424142) ±èÈ£¿¬ > È£¿¬¾ßµ¿º¼È®·ü
+[03/03 17:12:48] (71546240267481) ¼Û¼®¿ø > ÀÌÀç¼®»õ²¥
+[03/03 17:12:48] (67837229684900) ³ª¸Å > ¤»¤»¤»
+[03/03 17:12:48] (67837229684900) ©¢vC½ºÅ¸Çü ±¤ÆÒ[C.oke]15 > ´Ï
+[03/03 17:12:48] (66957688640663) ½¹½¹ > ÁÁ³× 
+[03/03 17:12:50] (69268685482404) ÀÌ»óÀ± > À½
+[03/03 17:12:50] (67837229684900) ©¢vC½ºÅ¸Çü ±¤ÆÒ[C.oke]15 > Àü
+[03/03 17:12:50] (72958217424142) ±èÈ£¿¬ > ¿À
+[03/03 17:12:50] (74135877856571) ½ÂÈ£ > ³Ý»ó¿¡¼­ ³²ÀÚ°¡¿©ÀÚÀÎÃ´ÇÏ´Â°Å
+[03/03 17:12:52] (67837229684900) ©¢vC½ºÅ¸Çü ±¤ÆÒ[C.oke]15 > Çô
+[03/03 17:12:52] (72958217424142) ±èÈ£¿¬ > ³ô±º
+[03/03 17:12:52] (67807514778851) vilmire > ÇÏ ÀÌ°³»õ³¢ ·Ñµû¶óÇÑ°Å¸¸ »ý°¢ÇÏ¸é
+[03/03 17:12:52] (69268685482404) ÀÌ»óÀ± > À½
+[03/03 17:12:53] (67837229684900) ©¢vC½ºÅ¸Çü ±¤ÆÒ[C.oke]15 > ³Ê
+[03/03 17:12:53] (69268685482404) ÀÌ»óÀ± > À½
+[03/03 17:12:53] (71546240267481) ¼Û¼®¿ø > ÃÊ´ëÇÏÁö¸¶
+[03/03 17:12:54] (69268685482404) ÀÌ»óÀ± > À½
+[03/03 17:12:54] (67837229684900) ©¢vC½ºÅ¸Çü ±¤ÆÒ[C.oke]15 > ¸¸
+[03/03 17:12:54] (67837229684900) ³ª¸Å > ÇÔ¼º Â¿¾ú´Âµ¥
+[03/03 17:12:55] (74135877856571) ½ÂÈ£ > ±×¾ß¸»·Î°üÁ¾
+[03/03 17:12:56] (71546240267481) ÀÌÀç¼® > ´º½º
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611505842260920321L, u'userId': 62181236L, u'chatId': 71546240267481L}
+[03/03 17:12:57] (40817358627331) ±è¼º¿í > ³ª¿À´ÃÃ¹°­ÀÇ¿¡ Á¹À½
+[03/03 17:12:57] (69268685482404) ¿ìÁî¸¶Å° ³ª·çÅä > ÇÒ ¼öµµ
+[03/03 17:12:57] (67837229684900) ©¢vC½ºÅ¸Çü ±¤ÆÒ[C.oke]15 > ¤»
+[03/03 17:12:57] (67807514778851) vilmire > ¾ß¸¶°¡µ·´Ù
+[03/03 17:12:58] (74563417609699) ¹Ú°æ > ²ô¾Ó´Ô ¸î»ìÀÌ¼¼¿©
+[03/03 17:12:58] (74215832137124) ±â»ÝE > ³»°¡ ³Î ÁÁ¾ÆÇÒ È®·ü
+AHOTHER: MSG {u'status': 0, u'chatLog': {u'msgId': 834378722, u'sendAt': 1393834379, u'logId': 611505863273779200L, u'authorId': 103927345L, u'message': u'\u3131', u'type': 1, u'chatId': 67837229684900L}, u'logId': 611505863273779200L, u'chatId': 67837229684900L, u'errMsg': None, u'authorNickname': u'\u0110vC\uc2a4\ud0c0\ud615 \uad11\ud32c[C.oke]15'}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611505863273779200L, u'userId': 109402911L, u'chatId': 67837229684900L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611505863273779200L, u'userId': 83406424L, u'chatId': 67837229684900L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611505863273779200L, u'userId': 115486210L, u'chatId': 67837229684900L}
+[03/03 17:12:58] (66957688640663) ½¹½¹ > ÀÌ»óÅ×·Î ÀÌÁ¦ 
+[03/03 17:12:59] (69268685482404) ÀÌ»óÀ± > ¿µ¾î³¡³ª°í
+[03/03 17:13:00] (66957688640663) ½¹½¹ > ÆÄÀÚ¸¶ Çì¾î°¥°í
+[03/03 17:13:00] (69268685482404) ÀÌ»óÀ± > ³ª°¡
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611505881359704064L, u'userId': 131868360L, u'chatId': 69268685482404L}
+AHOTHER: MSG {u'status': 0, u'chatLog': {u'msgId': 834378861, u'sendAt': 1393834381, u'logId': 611505883180060672L, u'authorId': 19744618L, u'message': u'\uad7f', u'type': 1, u'chatId': 40817358627331L}, u'logId': 611505883180060672L, u'chatId': 40817358627331L, u'errMsg': None, u'authorNickname': u'\uae40\uc131\uc6b1'}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611505883171717120L, u'userId': 134687933L, u'chatId': 69268685482404L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611505883171717120L, u'userId': 131868360L, u'chatId': 69268685482404L}
+[03/03 17:13:02] (74135877856571) ½ÂÈ£ > »çÁø
+[03/03 17:13:02] (67837229684900) ÀÌÁö¿¬ > ³ª Ã³À½¿¡ ¹Ì¸£½Ü ¹«¼­¿ïÁÙ¾Ë¾Ò´Âµ¥¤»¤»¤»¤»
+[03/03 17:13:04] (74135877856571) Áø°ï > ¤§¤§
+[03/03 17:13:04] (71546254938324) ÀÌÀç¼® > ´º½º
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611505461367341056L, u'userId': 62181236L, u'chatId': 71546254938324L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611505908815568896L, u'userId': 111303965L, u'chatId': 74135877856571L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611505913815746560L, u'userId': 62181236L, u'chatId': 71546254938324L}
+AHOTHER: MSG {u'status': 0, u'chatLog': {u'msgId': 834384128, u'sendAt': 1393834385, u'logId': 611505916675854336L, u'authorId': 51484044L, u'message': u'\ub098\ub9c9 \ubc15\uc218 \uc190\ubc14\ub2e5\ucc22\uc5b4\uc9c0\uac8c\uce58\uace0', u'type': 1, u'chatId': 67837229684900L}, u'logId': 611505916675854336L, u'chatId': 67837229684900L, u'errMsg': None, u'authorNickname': u'\ub098\ub9e4'}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611505899084820480L, u'userId': 109402911L, u'chatId': 67837229684900L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611505916675854336L, u'userId': 109402911L, u'chatId': 67837229684900L}
+[03/03 17:13:05] (69268685482404) ¿ìÁî¸¶Å° ³ª·çÅä > ¾ðÀç
+[03/03 17:13:06] (71546254938324) ÀÌÀç¼® > ´º½º
+[03/03 17:13:07] (69268685482404) ÀÌ»óÀ± > ¤¾¤·
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611505935097200640L, u'userId': 121581599L, u'chatId': 71546254938324L}
+AHOTHER: DECUNREAD {u'status': 0, u'watermark': 611505935784992768L, u'userId': 131868360L, u'chatId': 69268685482404L}
+[03/03 17:13:07] (67837229684900) È«Á¤ÈÆ > ³ÊµµÇÞÀÝ¾Æ½Ã ¹ß¾Æ
+[03/03 17:13:08] (74563417609699) ²ô¾Æ¾Æ¾Ó > ºñ¹Ð
+[03/03 17:13:08] (71546254938324) ÀÌÀç¼® > ´º½º
+AHOTHER: DELMEM {u'status': 0, u'chatLog': {u'msgId': 0, u'sendAt': 1393834389, u'logId': 611505950473482240L, u'authorId': 62181236L, u'message': u'{"feedType":2,"member":{"userId":62181236,"nickName":"\uc1a1\uc11d\uc6d0"}}', u'type': 0, u'chatId': 71546254938324L}}
+AHOTHER: MSG {u'status': 0, u'chatLog': {u'msgId': 834390311, u'sendAt': 1393834389, u'logId': 611505950666399744L, u'authorId': 37937214L, u'message': u'\ub098\ub294\uc8fc\ub77c\uace0\ud558\ub294\uac8c\uc544\ub2c8\ub77c', u'type': 1, u'chatId': 73689578228177L}, u'logId': 611505950666399744L, u'chatId': 73689578228177L, u'errMsg': None, u'authorNickname': u'\ucad1\uc640\uc774'}
